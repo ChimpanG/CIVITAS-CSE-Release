@@ -41,16 +41,16 @@ This mod does not require any expansions or DLC to work. We have an in-built val
 
 ### Mod Support
 CIVITAS City-States includes support for the following mods:
-⋅⋅* Better Trade Screen
-⋅⋅* Real Strategy
-⋅⋅* Religion Expanded
-⋅⋅* YNAMP
+* Better Trade Screen
+* Real Strategy
+* Religion Expanded
+* YNAMP
 
 ### UI Mods
 CIVITAS City-States replaces the following user interface screens, and may not be compatible with other mods that do the same. However, we've added compatibility where possible. Please refer to the Mod Support section above.
-⋅⋅* CityStates.lua
-⋅⋅* CivilopediaPage_CityStates.lua
-⋅⋅* TradeOverview.lua
+* CityStates.lua
+* CivilopediaPage_CityStates.lua
+* TradeOverview.lua
 
 ### Bug Reports
 This mod has been bug-tested extensively, but if you do experience any serious issues, please provide detailed information in the pinned conversation below.
