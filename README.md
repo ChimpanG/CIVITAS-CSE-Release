@@ -24,11 +24,17 @@ If you're looking for changes on the more complex side of the spectrum, then we 
 
 ## CREDITS
 **Concept & Design** thecrazyscotsman, ChimpanG, p0kiehl, Chrisy15, Digihuman, SeelingCat, Sailor Cat
+
 **Code** thecrazyscotsman, ChimpanG, Chrisy15, p0kiehl
+
 **In-Game Assets** thecrazyscotsman, Sailor Cat
+
 **Art** thecrazyscotsman, ChimpanG
+
 **Text** thecrazyscotsman, p0kiehl, ChimpanG
+
 **Mod Support** thecrazyscotsman, ChimpanG, SeelingCat
+
 **QA** thecrazyscotsman, ChimpanG, Digihuman
 
 ### Special Thanks
