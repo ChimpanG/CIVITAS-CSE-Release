@@ -1,0 +1,60 @@
+/*
+	Types
+	Authors: ChimpanG
+*/
+
+-----------------------------------------------
+-- CSE_ClassTypes
+-----------------------------------------------
+
+UPDATE	CSE_ClassTypes
+SET		MediumBonus = 'LOC_CSE_TRADE_TRAIT_MEDIUM_INFLUENCE_MEKONG_BONUS',
+		LargestBonus = 'LOC_CSE_TRADE_TRAIT_LARGEST_INFLUENCE_MEKONG_BONUS',
+		TraitDescription = 'LOC_CSE_TRADE_TRAIT_MEKONG_DESCRIPTION'
+WHERE	Type IN ('TRADE')
+AND NOT EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));
+
+UPDATE	CSE_ClassTypes
+SET		MediumBonus = 'LOC_CSE_TRADE_TRAIT_MEDIUM_INFLUENCE_MEKONG_BONUS_ALT',
+		LargestBonus = 'LOC_CSE_TRADE_TRAIT_LARGEST_INFLUENCE_MEKONG_BONUS_ALT',
+		TraitDescription = 'LOC_CSE_TRADE_TRAIT_MEKONG_DESCRIPTION_ALT'
+WHERE	Type IN ('TRADE')
+AND EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));
+
+-----------------------------------------------
+-- ModifierArguments
+-----------------------------------------------
+
+UPDATE	ModifierArguments
+SET		Value = 2
+WHERE	Name = 'Amount'
+AND		ModifierId IN ('MODIFIER_CSE_TRADE_MARKET_GOLD_MOD', 'MODIFIER_CSE_TRADE_LIGHTHOUSE_GOLD_MOD');
+
+UPDATE	ModifierArguments
+SET		Value = 6
+WHERE	Name = 'Amount'
+AND		ModifierId IN ('MODIFIER_CSE_TRADE_STOCK_EXCHANGE_GOLD_MOD', 'MODIFIER_CSE_TRADE_SEAPORT_GOLD_MOD');
+
+-----------------------------------------------
+-- ModifierStrings
+-----------------------------------------------
+
+UPDATE	ModifierStrings
+SET		Text = 'LOC_CSE_TRADE_TRAIT_MEDIUM_INFLUENCE_MEKONG_BONUS'
+WHERE	ModifierId IN ('MODIFIER_CSE_TRADE_MARKET_GOLD', 'MODIFIER_CSE_TRADE_LIGHTHOUSE_GOLD')
+AND NOT EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));
+
+UPDATE	ModifierStrings
+SET		Text = 'LOC_CSE_TRADE_TRAIT_MEDIUM_INFLUENCE_MEKONG_BONUS_ALT'
+WHERE	ModifierId IN ('MODIFIER_CSE_TRADE_MARKET_GOLD')
+AND EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));
+
+UPDATE	ModifierStrings
+SET		Text = 'LOC_CSE_TRADE_TRAIT_LARGEST_INFLUENCE_MEKONG_BONUS'
+WHERE	ModifierId IN ('MODIFIER_CSE_TRADE_STOCK_EXCHANGE_GOLD', 'MODIFIER_CSE_TRADE_SEAPORT_GOLD')
+AND NOT EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));
+
+UPDATE	ModifierStrings
+SET		Text = 'LOC_CSE_TRADE_TRAIT_LARGEST_INFLUENCE_MEKONG_BONUS_ALT'
+WHERE	ModifierId IN ('MODIFIER_CSE_TRADE_STOCK_EXCHANGE_GOLD')
+AND EXISTS (SELECT * FROM ModValidation WHERE Version IN ('CSE_MARITIME'));

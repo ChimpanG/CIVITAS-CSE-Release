@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="Civilizations"/>
 	<m_RootCollections>
@@ -21,7 +21,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_AMPI"/>
+				<m_Name text="CIVILIZATION_CSE_ALAMUT"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -34,7 +34,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_ANURADHAPURA"/>
+				<m_Name text="CIVILIZATION_CSE_AMPI"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -47,7 +47,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_ARVAD"/>
+				<m_Name text="CIVILIZATION_CSE_ANURADHAPURA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -60,7 +60,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_BEIKTHANO"/>
+				<m_Name text="CIVILIZATION_CSE_AZCAPOTZALCO"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -73,7 +73,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_BUTUAN"/>
+				<m_Name text="CIVILIZATION_CSE_BAIAE"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -86,7 +86,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_CATALHOYUK"/>
+				<m_Name text="CIVILIZATION_CSE_BEIKTHANO"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -99,7 +99,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_CHAN_CHAN"/>
+				<m_Name text="CIVILIZATION_CSE_BUTUAN"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -112,7 +112,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_CHETRO_KETL"/>
+				<m_Name text="CIVILIZATION_CSE_CATALHOYUK"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -125,7 +125,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_DELOS"/>
+				<m_Name text="CIVILIZATION_CSE_CHAN_CHAN"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -138,7 +138,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_DODONA"/>
+				<m_Name text="CIVILIZATION_CSE_CHETRO_KETL"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -151,7 +151,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_PHASIS"/>
+				<m_Name text="CIVILIZATION_CSE_DAKAR"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -164,7 +164,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_ETZANOA"/>
+				<m_Name text="CIVILIZATION_CSE_DELOS"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -177,7 +177,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_GOBEKLI_TEPE"/>
+				<m_Name text="CIVILIZATION_CSE_DELPHI"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -190,7 +190,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_GUAPONDELIG"/>
+				<m_Name text="CIVILIZATION_CSE_DJIBOUTI"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -203,7 +203,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_HADAD"/>
+				<m_Name text="CIVILIZATION_CSE_DODONA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -216,7 +216,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_HALIN"/>
+				<m_Name text="CIVILIZATION_CSE_ETZANOA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -229,7 +229,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_HAZOR"/>
+				<m_Name text="CIVILIZATION_CSE_GARAMA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -242,7 +242,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_IQALUIT"/>
+				<m_Name text="CIVILIZATION_CSE_GOBEKLI_TEPE"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -255,7 +255,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_JOLO"/>
+				<m_Name text="CIVILIZATION_CSE_GUNDESHAPUR"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -268,7 +268,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_KADESH"/>
+				<m_Name text="CIVILIZATION_CSE_HADAD"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -281,7 +281,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_KATARAGAMA"/>
+				<m_Name text="CIVILIZATION_CSE_HALIN"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -294,7 +294,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_KELANIYA"/>
+				<m_Name text="CIVILIZATION_CSE_HAVANA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -307,7 +307,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_KUHIKUGU"/>
+				<m_Name text="CIVILIZATION_CSE_HAZOR"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -320,7 +320,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_MAI"/>
+				<m_Name text="CIVILIZATION_CSE_HORMUZ"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -333,7 +333,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_MAINGMAW"/>
+				<m_Name text="CIVILIZATION_CSE_HVALSEY"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -346,7 +346,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_MEGIDDO"/>
+				<m_Name text="CIVILIZATION_CSE_IQALUIT"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -359,7 +359,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_MOMBASA"/>
+				<m_Name text="CIVILIZATION_CSE_IZAPA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -372,7 +372,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_MONACO"/>
+				<m_Name text="CIVILIZATION_CSE_JOHANNESBURG"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -385,7 +385,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_NALANDA"/>
+				<m_Name text="CIVILIZATION_CSE_JOLO"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -398,7 +398,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_PALMYRA"/>
+				<m_Name text="CIVILIZATION_CSE_KADESH"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -411,7 +411,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_PORT_ROYAL"/>
+				<m_Name text="CIVILIZATION_CSE_KANNAUJ"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -424,7 +424,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_QATNA"/>
+				<m_Name text="CIVILIZATION_CSE_KATARAGAMA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -437,7 +437,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_RHESAINA"/>
+				<m_Name text="CIVILIZATION_CSE_KELANIYA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -450,7 +450,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_SANDAKAN"/>
+				<m_Name text="CIVILIZATION_CSE_KUHIKUGU"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -463,7 +463,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_SEUTHOPOLIS"/>
+				<m_Name text="CIVILIZATION_CSE_LIMA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -476,7 +476,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_SRI_KSETRA"/>
+				<m_Name text="CIVILIZATION_CSE_MACAU"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -489,7 +489,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_TAOS"/>
+				<m_Name text="CIVILIZATION_CSE_MAI"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -502,7 +502,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_TEYUNA"/>
+				<m_Name text="CIVILIZATION_CSE_MAINGMAW"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -515,7 +515,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_TISSAMAHARAMA"/>
+				<m_Name text="CIVILIZATION_CSE_MARRAKECH"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -528,7 +528,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_TUNERIUT"/>
+				<m_Name text="CIVILIZATION_CSE_MEGIDDO"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -541,7 +541,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_UGARIT"/>
+				<m_Name text="CIVILIZATION_CSE_MEHRGARH"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -554,7 +554,358 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_CIVILIZATION_WYAM"/>
+				<m_Name text="CIVILIZATION_CSE_MOMBASA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_MONACO"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_MZIZIMA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_NALANDA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_NASSAU"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_PALMYRA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_PORT_ROYAL"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_QATNA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SALE"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SAMARQAND"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SANAA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SEUTHOPOLIS"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SHAHR_E_SUKHTE"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SIDON"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SINGAPORE"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_SRI_KSETRA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_TANGIER"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_TAOS"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_TEYUNA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_TISSAMAHARAMA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_UGARIT"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_URGENCH"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_VALABHI"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_WYAM"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_TUNERIUT"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_VIENNA"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_VADUZ"/>
+				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values/>
+				</m_Fields>
+				<m_ChildCollections>
+					<Element>
+						<m_CollectionName text="Audio"/>
+						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
+					</Element>
+				</m_ChildCollections>
+				<m_Name text="CIVILIZATION_CSE_AYNUK"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>

@@ -59,9 +59,9 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_GreatKiva_Visible"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
+							<m_XLPPath text="StrategicView_Improvements.xlp"/>
 							<m_BLPPackage text="strategicview/strategicview_improvements"/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Visible_XLPEntry"/>
@@ -77,10 +77,10 @@
 							<m_ParamName text="Visible_BottomRight"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_GreatKiva_Revealed"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
-							<m_BLPPackage text="strategicview/strategicview_improvements"/>
+							<m_XLPPath text="StrategicView_TerrainSprites.xlp"/>
+							<m_BLPPackage text=""/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Revealed_XLPEntry"/>
 						</Element>
@@ -104,9 +104,9 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_GreatKiva_Visible_Pillaged"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
+							<m_XLPPath text="StrategicView_Improvements.xlp"/>
 							<m_BLPPackage text="strategicview/strategicview_improvements"/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Visible_XLPEntry"/>
@@ -122,10 +122,10 @@
 							<m_ParamName text="Visible_BottomRight"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_GreatKiva_Revealed_Pillaged"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
-							<m_BLPPackage text="strategicview/strategicview_improvements"/>
+							<m_XLPPath text="StrategicView_TerrainSprites.xlp"/>
+							<m_BLPPackage text=""/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Revealed_XLPEntry"/>
 						</Element>
@@ -149,9 +149,9 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_Stupa_Visible"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
+							<m_XLPPath text="StrategicView_Improvements.xlp"/>
 							<m_BLPPackage text="strategicview/strategicview_improvements"/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Visible_XLPEntry"/>
@@ -167,10 +167,10 @@
 							<m_ParamName text="Visible_BottomRight"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_Stupa_Revealed"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
-							<m_BLPPackage text="strategicview/strategicview_improvements"/>
+							<m_XLPPath text="StrategicView_TerrainSprites.xlp"/>
+							<m_BLPPackage text=""/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Revealed_XLPEntry"/>
 						</Element>
@@ -194,9 +194,9 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_Stupa_Visible_Pillaged"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
+							<m_XLPPath text="StrategicView_Improvements.xlp"/>
 							<m_BLPPackage text="strategicview/strategicview_improvements"/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Visible_XLPEntry"/>
@@ -212,10 +212,10 @@
 							<m_ParamName text="Visible_BottomRight"/>
 						</Element>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="CVS_Stupa_Revealed_Pillaged"/>
+							<m_EntryName text=""/>
 							<m_XLPClass text="StrategicView_Sprite"/>
-							<m_XLPPath text="strategicview.xlp"/>
-							<m_BLPPackage text="strategicview/strategicview_improvements"/>
+							<m_XLPPath text="StrategicView_TerrainSprites.xlp"/>
+							<m_BLPPackage text=""/>
 							<m_LibraryName text="StrategicView_Sprite"/>
 							<m_ParamName text="Revealed_XLPEntry"/>
 						</Element>

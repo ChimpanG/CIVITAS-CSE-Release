@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="Landmarks"/>
 	<m_RootCollections>
@@ -62,10 +62,18 @@
 									<Element class="AssetObjects..BLPEntryValue">
 										<m_EntryName text="CVS_IMP_GreatKiva"/>
 										<m_XLPClass text="TileBase"/>
-										<m_XLPPath text="tilebases.xlp"/>
-										<m_BLPPackage text="landmarks/tilebases"/>
+										<m_XLPPath text="tilebase.xlp"/>
+										<m_BLPPackage text="TileBase"/>
 										<m_LibraryName text="TileBase"/>
 										<m_ParamName text="Asset"/>
+									</Element>
+									<Element class="AssetObjects..StringValue">
+										<m_Value text=""/>
+										<m_ParamName text="SelectionRule"/>
+									</Element>
+									<Element class="AssetObjects..FloatValue">
+										<m_fValue>0.000000</m_fValue>
+										<m_ParamName text="Priority"/>
 									</Element>
 								</m_Values>
 							</m_Fields>
@@ -86,7 +94,7 @@
 							<m_ParamName text="FlattenTerrain"/>
 						</Element>
 						<Element class="AssetObjects..StringValue">
-							<m_Value text="NONE"/>
+							<m_Value text="EVERY_60"/>
 							<m_ParamName text="RotationType"/>
 						</Element>
 					</m_Values>
@@ -125,10 +133,18 @@
 									<Element class="AssetObjects..BLPEntryValue">
 										<m_EntryName text="CVS_IMP_Stupa"/>
 										<m_XLPClass text="TileBase"/>
-										<m_XLPPath text="tilebases.xlp"/>
-										<m_BLPPackage text="landmarks/tilebases"/>
+										<m_XLPPath text="tilebase.xlp"/>
+										<m_BLPPackage text="TileBase"/>
 										<m_LibraryName text="TileBase"/>
 										<m_ParamName text="Asset"/>
+									</Element>
+									<Element class="AssetObjects..StringValue">
+										<m_Value text=""/>
+										<m_ParamName text="SelectionRule"/>
+									</Element>
+									<Element class="AssetObjects..FloatValue">
+										<m_fValue>0.000000</m_fValue>
+										<m_ParamName text="Priority"/>
 									</Element>
 								</m_Values>
 							</m_Fields>

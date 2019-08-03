@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="Improvements"/>
 	<m_RootCollections>
@@ -132,7 +132,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_IMPROVEMENT_GREAT_KIVA"/>
+				<m_Name text="IMPROVEMENT_CSE_KIVA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 			<Element>
@@ -256,7 +256,7 @@
 						<m_ReplaceMergedCollectionElements>false</m_ReplaceMergedCollectionElements>
 					</Element>
 				</m_ChildCollections>
-				<m_Name text="CVS_IMPROVEMENT_STUPA"/>
+				<m_Name text="IMPROVEMENT_CSE_DAGOBA"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>

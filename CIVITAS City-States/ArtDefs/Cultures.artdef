@@ -3,8 +3,8 @@
 	<m_Version>
 		<major>4</major>
 		<minor>0</minor>
-		<build>315</build>
-		<revision>805</revision>
+		<build>415</build>
+		<revision>990</revision>
 	</m_Version>
 	<m_TemplateName text="Cultures"/>
 	<m_RootCollections>
@@ -19,7 +19,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_AMPI"/>
+									<m_ElementName text="CIVILIZATION_CSE_AMPI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -27,7 +27,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ANURADHAPURA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ANURADHAPURA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -35,7 +35,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ARVAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_AYNUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -43,7 +43,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BEIKTHANO"/>
+									<m_ElementName text="CIVILIZATION_CSE_BEIKTHANO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -51,7 +51,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHAN_CHAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHAN_CHAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -59,7 +59,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHETRO_KETL"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHETRO_KETL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -67,7 +67,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DELOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_DELOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -75,7 +75,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DODONA"/>
+									<m_ElementName text="CIVILIZATION_CSE_DODONA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -83,15 +83,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GUAPONDELIG"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations009"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HADAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_HADAD"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -99,7 +91,7 @@
 									<m_ParamName text="Civilizations010"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HALIN"/>
+									<m_ElementName text="CIVILIZATION_CSE_HALIN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -107,7 +99,7 @@
 									<m_ParamName text="Civilizations011"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HAZOR"/>
+									<m_ElementName text="CIVILIZATION_CSE_HAZOR"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -115,7 +107,7 @@
 									<m_ParamName text="Civilizations012"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KADESH"/>
+									<m_ElementName text="CIVILIZATION_CSE_KADESH"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -123,7 +115,7 @@
 									<m_ParamName text="Civilizations013"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KATARAGAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KATARAGAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -131,7 +123,7 @@
 									<m_ParamName text="Civilizations014"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KELANIYA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KELANIYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -139,7 +131,7 @@
 									<m_ParamName text="Civilizations015"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAINGMAW"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAINGMAW"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -147,7 +139,7 @@
 									<m_ParamName text="Civilizations016"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MEGIDDO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MEGIDDO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -155,7 +147,7 @@
 									<m_ParamName text="Civilizations017"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_NALANDA"/>
+									<m_ElementName text="CIVILIZATION_CSE_NALANDA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -163,7 +155,7 @@
 									<m_ParamName text="Civilizations018"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_QATNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_QATNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -171,7 +163,7 @@
 									<m_ParamName text="Civilizations019"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SEUTHOPOLIS"/>
+									<m_ElementName text="CIVILIZATION_CSE_SEUTHOPOLIS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -179,7 +171,7 @@
 									<m_ParamName text="Civilizations020"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SRI_KSETRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_SRI_KSETRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -187,7 +179,7 @@
 									<m_ParamName text="Civilizations021"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TAOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_TAOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -195,7 +187,7 @@
 									<m_ParamName text="Civilizations022"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TEYUNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TEYUNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -203,12 +195,116 @@
 									<m_ParamName text="Civilizations023"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_UGARIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_UGARIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations024"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_ALAMUT"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_BAIAE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations025"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DELPHI"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations026"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_GUNDESHAPUR"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations027"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_KANNAUJ"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations028"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MEHRGARH"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations029"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MZIZIMA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations030"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SANAA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations031"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SHAHR_E_SUKHTE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations032"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SIDON"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations033"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_TANGIER"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations034"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_URGENCH"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations035"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_VIENNA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations036"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -227,7 +323,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CATALHOYUK"/>
+									<m_ElementName text="CIVILIZATION_CSE_CATALHOYUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -235,7 +331,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GOBEKLI_TEPE"/>
+									<m_ElementName text="CIVILIZATION_CSE_GOBEKLI_TEPE"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -243,7 +339,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_JOLO"/>
+									<m_ElementName text="CIVILIZATION_CSE_JOLO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -251,7 +347,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MOMBASA"/>
+									<m_ElementName text="CIVILIZATION_CSE_MOMBASA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -259,7 +355,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PALMYRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_PALMYRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -267,23 +363,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_RHESAINA"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations006"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SANDAKAN"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations007"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TISSAMAHARAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TISSAMAHARAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -291,12 +371,36 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BUTUAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_BUTUAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_HVALSEY"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations006"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SAMARQAND"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations007"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_VADUZ"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations010"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -315,7 +419,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ETZANOA"/>
+									<m_ElementName text="CIVILIZATION_CSE_AZCAPOTZALCO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -323,7 +427,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_IQALUIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_IQALUIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -331,7 +435,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KUHIKUGU"/>
+									<m_ElementName text="CIVILIZATION_CSE_KUHIKUGU"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -339,7 +443,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAI"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -347,7 +451,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MONACO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MONACO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -355,15 +459,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PHASIS"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations006"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PORT_ROYAL"/>
+									<m_ElementName text="CIVILIZATION_CSE_PORT_ROYAL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -371,7 +467,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TUNERIUT"/>
+									<m_ElementName text="CIVILIZATION_CSE_TUNERIUT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -379,12 +475,100 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_WYAM"/>
+									<m_ElementName text="CIVILIZATION_CSE_WYAM"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DAKAR"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations006"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DJIBOUTI"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_HAVANA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_IZAPA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_JOHANNESBURG"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_LIMA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MACAU"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations015"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_NASSAU"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations016"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SALE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations017"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SINGAPORE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations018"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_VALABHI"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations019"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -403,7 +587,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ETZANOA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ETZANOA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -411,7 +595,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_IQALUIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_IQALUIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -419,7 +603,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PORT_ROYAL"/>
+									<m_ElementName text="CIVILIZATION_CSE_PORT_ROYAL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -427,7 +611,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TUNERIUT"/>
+									<m_ElementName text="CIVILIZATION_CSE_TUNERIUT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -435,12 +619,28 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_WYAM"/>
+									<m_ElementName text="CIVILIZATION_CSE_WYAM"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations005"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_HAVANA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations006"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_NASSAU"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations007"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -459,7 +659,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_JOLO"/>
+									<m_ElementName text="CIVILIZATION_CSE_JOLO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -467,7 +667,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BUTUAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_BUTUAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -475,15 +675,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SANDAKAN"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations003"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAI"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -507,7 +699,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHETRO_KETL"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHETRO_KETL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -515,7 +707,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DELOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_DELOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -523,7 +715,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DODONA"/>
+									<m_ElementName text="CIVILIZATION_CSE_DODONA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -531,7 +723,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SEUTHOPOLIS"/>
+									<m_ElementName text="CIVILIZATION_CSE_SEUTHOPOLIS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -539,7 +731,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TAOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_TAOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -547,15 +739,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_RHESAINA"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations006"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MONACO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MONACO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -563,12 +747,28 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PHASIS"/>
+									<m_ElementName text="CIVILIZATION_CSE_BAIAE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations006"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DELPHI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations008"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SIDON"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations009"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -587,7 +787,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_NALANDA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ALAMUT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -595,7 +795,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CATALHOYUK"/>
+									<m_ElementName text="CIVILIZATION_CSE_CATALHOYUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -603,7 +803,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GOBEKLI_TEPE"/>
+									<m_ElementName text="CIVILIZATION_CSE_GOBEKLI_TEPE"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -611,12 +811,92 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PALMYRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_PALMYRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations004"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_GUNDESHAPUR"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations005"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_HORMUZ"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations006"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_KANNAUJ"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations007"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MEHRGARH"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations008"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SAMARQAND"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SANAA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SHAHR_E_SUKHTE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_TANGIER"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_URGENCH"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_VALABHI"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations014"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -635,7 +915,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_AMPI"/>
+									<m_ElementName text="CIVILIZATION_CSE_AMPI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -643,7 +923,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ARVAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_AYNUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -651,7 +931,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HADAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_HADAD"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -659,7 +939,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HAZOR"/>
+									<m_ElementName text="CIVILIZATION_CSE_HAZOR"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -667,7 +947,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KADESH"/>
+									<m_ElementName text="CIVILIZATION_CSE_KADESH"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -675,7 +955,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MEGIDDO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MEGIDDO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -683,7 +963,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_QATNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_QATNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -691,12 +971,36 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_UGARIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_UGARIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations008"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DJIBOUTI"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MZIZIMA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations010"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SALE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations011"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -715,12 +1019,28 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MOMBASA"/>
+									<m_ElementName text="CIVILIZATION_CSE_MOMBASA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations001"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_DAKAR"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations002"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_JOHANNESBURG"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations003"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -739,7 +1059,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHAN_CHAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHAN_CHAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -747,15 +1067,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GUAPONDELIG"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations002"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KUHIKUGU"/>
+									<m_ElementName text="CIVILIZATION_CSE_KUHIKUGU"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -763,12 +1075,20 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TEYUNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TEYUNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations004"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_IZAPA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations002"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -787,7 +1107,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ANURADHAPURA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ANURADHAPURA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -795,7 +1115,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BEIKTHANO"/>
+									<m_ElementName text="CIVILIZATION_CSE_BEIKTHANO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -803,7 +1123,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HALIN"/>
+									<m_ElementName text="CIVILIZATION_CSE_HALIN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -811,7 +1131,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KATARAGAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KATARAGAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -819,7 +1139,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KELANIYA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KELANIYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -827,7 +1147,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAINGMAW"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAINGMAW"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -835,7 +1155,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SRI_KSETRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_SRI_KSETRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -843,12 +1163,28 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TISSAMAHARAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TISSAMAHARAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations008"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_MACAU"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations009"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_SINGAPORE"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations010"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -857,6 +1193,30 @@
 				</m_Fields>
 				<m_ChildCollections/>
 				<m_Name text="SoutheastAsian"/>
+				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
+			</Element>
+			<Element>
+				<m_Fields>
+					<m_Values>
+						<Element class="AssetObjects..CollectionValue">
+							<m_eObjectType>INVALID</m_eObjectType>
+							<m_eValueType>ARTDEF_REF</m_eValueType>
+							<m_Values>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_LIMA"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations001"/>
+								</Element>
+							</m_Values>
+							<m_ParamName text="Civilizations"/>
+						</Element>
+					</m_Values>
+				</m_Fields>
+				<m_ChildCollections/>
+				<m_Name text="Brazil"/>
 				<m_AppendMergedParameterCollections>true</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>
@@ -871,7 +1231,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ANURADHAPURA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ANURADHAPURA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -879,7 +1239,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BEIKTHANO"/>
+									<m_ElementName text="CIVILIZATION_CSE_BEIKTHANO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -887,7 +1247,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_BUTUAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_BUTUAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -895,7 +1255,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HALIN"/>
+									<m_ElementName text="CIVILIZATION_CSE_HALIN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -903,7 +1263,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_JOLO"/>
+									<m_ElementName text="CIVILIZATION_CSE_JOLO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -911,7 +1271,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KATARAGAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KATARAGAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -919,7 +1279,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KELANIYA"/>
+									<m_ElementName text="CIVILIZATION_CSE_KELANIYA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -927,7 +1287,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAI"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -935,7 +1295,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MAINGMAW"/>
+									<m_ElementName text="CIVILIZATION_CSE_MAINGMAW"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -943,15 +1303,7 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SANDAKAN"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations010"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SRI_KSETRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_SRI_KSETRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -959,7 +1311,7 @@
 									<m_ParamName text="Civilizations011"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TISSAMAHARAMA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TISSAMAHARAMA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -983,7 +1335,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DELOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_DELOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -991,7 +1343,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_DODONA"/>
+									<m_ElementName text="CIVILIZATION_CSE_DODONA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -999,7 +1351,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MONACO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MONACO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1007,15 +1359,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PHASIS"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations004"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PORT_ROYAL"/>
+									<m_ElementName text="CIVILIZATION_CSE_PORT_ROYAL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1023,15 +1367,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_RHESAINA"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations006"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_SEUTHOPOLIS"/>
+									<m_ElementName text="CIVILIZATION_CSE_SEUTHOPOLIS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1055,7 +1391,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_AMPI"/>
+									<m_ElementName text="CIVILIZATION_CSE_AMPI"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1063,7 +1399,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ARVAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_AYNUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1071,7 +1407,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CATALHOYUK"/>
+									<m_ElementName text="CIVILIZATION_CSE_CATALHOYUK"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1079,7 +1415,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GOBEKLI_TEPE"/>
+									<m_ElementName text="CIVILIZATION_CSE_GOBEKLI_TEPE"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1087,7 +1423,7 @@
 									<m_ParamName text="Civilizations004"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HADAD"/>
+									<m_ElementName text="CIVILIZATION_CSE_HADAD"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1095,7 +1431,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_HAZOR"/>
+									<m_ElementName text="CIVILIZATION_CSE_HAZOR"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1103,7 +1439,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KADESH"/>
+									<m_ElementName text="CIVILIZATION_CSE_KADESH"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1111,7 +1447,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MEGIDDO"/>
+									<m_ElementName text="CIVILIZATION_CSE_MEGIDDO"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1119,7 +1455,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_NALANDA"/>
+									<m_ElementName text="CIVILIZATION_CSE_NALANDA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1127,7 +1463,7 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_PALMYRA"/>
+									<m_ElementName text="CIVILIZATION_CSE_PALMYRA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1135,7 +1471,7 @@
 									<m_ParamName text="Civilizations010"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_QATNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_QATNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1143,12 +1479,20 @@
 									<m_ParamName text="Civilizations011"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_UGARIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_UGARIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
 									<m_TemplateName text="Civilizations"/>
 									<m_ParamName text="Civilizations012"/>
+								</Element>
+								<Element class="AssetObjects..ArtDefReferenceValue">
+									<m_ElementName text="CIVILIZATION_CSE_HORMUZ"/>
+									<m_RootCollectionName text="Civilization"/>
+									<m_ArtDefPath text="Civilizations.artdef"/>
+									<m_CollectionIsLocked>true</m_CollectionIsLocked>
+									<m_TemplateName text="Civilizations"/>
+									<m_ParamName text="Civilizations013"/>
 								</Element>
 							</m_Values>
 							<m_ParamName text="Civilizations"/>
@@ -1167,7 +1511,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_MOMBASA"/>
+									<m_ElementName text="CIVILIZATION_CSE_MOMBASA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1191,7 +1535,7 @@
 							<m_eValueType>ARTDEF_REF</m_eValueType>
 							<m_Values>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHAN_CHAN"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHAN_CHAN"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1199,7 +1543,7 @@
 									<m_ParamName text="Civilizations001"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_CHETRO_KETL"/>
+									<m_ElementName text="CIVILIZATION_CSE_CHETRO_KETL"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1207,7 +1551,7 @@
 									<m_ParamName text="Civilizations002"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_ETZANOA"/>
+									<m_ElementName text="CIVILIZATION_CSE_ETZANOA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1215,15 +1559,7 @@
 									<m_ParamName text="Civilizations003"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_GUAPONDELIG"/>
-									<m_RootCollectionName text="Civilization"/>
-									<m_ArtDefPath text="Civilizations.artdef"/>
-									<m_CollectionIsLocked>true</m_CollectionIsLocked>
-									<m_TemplateName text="Civilizations"/>
-									<m_ParamName text="Civilizations004"/>
-								</Element>
-								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_IQALUIT"/>
+									<m_ElementName text="CIVILIZATION_CSE_IQALUIT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1231,7 +1567,7 @@
 									<m_ParamName text="Civilizations005"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_KUHIKUGU"/>
+									<m_ElementName text="CIVILIZATION_CSE_KUHIKUGU"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1239,7 +1575,7 @@
 									<m_ParamName text="Civilizations006"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TAOS"/>
+									<m_ElementName text="CIVILIZATION_CSE_TAOS"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1247,7 +1583,7 @@
 									<m_ParamName text="Civilizations007"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TEYUNA"/>
+									<m_ElementName text="CIVILIZATION_CSE_TEYUNA"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1255,7 +1591,7 @@
 									<m_ParamName text="Civilizations008"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_TUNERIUT"/>
+									<m_ElementName text="CIVILIZATION_CSE_TUNERIUT"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
@@ -1263,7 +1599,7 @@
 									<m_ParamName text="Civilizations009"/>
 								</Element>
 								<Element class="AssetObjects..ArtDefReferenceValue">
-									<m_ElementName text="CVS_CIVILIZATION_WYAM"/>
+									<m_ElementName text="CIVILIZATION_CSE_WYAM"/>
 									<m_RootCollectionName text="Civilization"/>
 									<m_ArtDefPath text="Civilizations.artdef"/>
 									<m_CollectionIsLocked>true</m_CollectionIsLocked>
