@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CVS_CityStates_NewTypes_Text -->
+<!-- Author: thecrazyscotsman -->
+<!-- DateCreated: 12/15/2017 9:28:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CITY_STATES_TYPE_CVS_AGRICULTURAL" Language="en_US">
+			<Text>Agricultural</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Food] Food in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Food] Food in every Granary building.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 [ICON_Food] Food in every Aqueduct district.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_NAME" Language="en_US">
+			<Text>Agricultural City-State</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_AGRICULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CVS_AGRICULTURAL_NAME" Language="en_US">
+			<Text>Agricultural</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_STATES_TYPE_CVS_ENTERTAINMENT" Language="en_US">
+			<Text>Entertainment</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 [ICON_Amenities] Amenity in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 [ICON_Amenities] Amenity in every Arena and Ferris Wheel building.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 local [ICON_Amenities] Amenity in every Zoo and Aquarium building.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_NAME" Language="en_US">
+			<Text>Entertainment City-State</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_ENTERTAINMENT_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CVS_ENTERTAINMENT_NAME" Language="en_US">
+			<Text>Entertainment</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_STATES_TYPE_CVS_CONSULAR" Language="en_US">
+			<Text>Consular</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+0.5 Loyalty Pressure per [ICON_Citizen] Citizen in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+2 Loyalty in every city.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>Additional +2 Loyalty in every city.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_NAME" Language="en_US">
+			<Text>Consular City-State</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_CONSULAR_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CVS_CONSULAR_NAME" Language="en_US">
+			<Text>Consular</Text>
+		</Row>
+
+		<Row Tag="LOC_CITY_STATES_TYPE_CVS_MARITIME" Language="en_US">
+			<Text>Maritime</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 [ICON_Food] Food and [ICON_Production] Production in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 [ICON_Food] Food and [ICON_Production] Production in every Lighthouse building.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS" Language="en_US">
+			<Text>+1 [ICON_Food] Food and [ICON_Production] Production in every Shipyard building.</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_MARITIME_TRAIT_NAME" Language="en_US">
+			<Text>Maritime City-State</Text>
+		</Row>
+		<Row Tag="LOC_CVS_MINOR_CIV_MARITIME_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_CVS_MINOR_CIV_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CVS_MARITIME_NAME" Language="en_US">
+			<Text>Maritime</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

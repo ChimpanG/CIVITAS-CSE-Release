@@ -1,0 +1,1570 @@
+<GameData>
+	<LocalizedText>
+		<!--Ampi-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_AMPI_NAME" Language="en_US">
+			<Text>Ampi</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_AMPI_DESCRIPTION" Language="en_US">
+			<Text>Ampi city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_AMPI_ADJECTIVE" Language="en_US">
+			<Text>Ampian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_AMPI" Language="en_US">
+			<Text>Ampi</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_AMPI_NAME" Language="en_US">
+			<Text>Ampi Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_AMPI_DESCRIPTION" Language="en_US">
+			<Text>Receive 2 [ICON_CVS_RESOURCE_GLASS] Glass luxury resources, which provide 4 [ICON_Amenities] Amenities. Your Plantations produce +1 [ICON_Production] Production.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_AMPI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Remains from at least 3,000 years of human occupation lie tangled among the myrtle and brambles of this 400 meter long and 120m wide peninsula. It is partially separated from the land by two great trenches-dug into the bedrock during the Crusader period. While Enfeh has witnessed only minor excavation, Phoenician and Roman walls, wine presses, mosaic floors, and two seventh-century-A.D. chapels lie bare beneath the intense sun and wind. This lovely seaside fishing town is known for its ancient churches and caves. Today Enfeh is also known for its salt production. Close to Enfeh is the Crusader-era Abbey of Balamand, which sits on a promontory overlooking the sea.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_AMPI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Letters written by Rib Addi, the King of Byblos, specifically mention the Canaanite city of Enfeh (called “Ampi” in the letters) and state that Enfeh, after being occupied by the Amorites, fought with the Amorites against Byblos. Enfeh was conquered by the Assyrian army in the 7th century B.C., when it was known as "Anpa". The remains of subsequent settlements include dwelling caves, places of worship, cisterns, water tanks and wine presses, as well as steps and roads all carved in the rock. One ancient quarry, known as the Great Trench, was used by the Phoenicians as a dry dock; The Phoenicians used the place as a shipyard for the construction of their vessels, as it was a strategic point on the Mediterranean coast.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_AMPI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Enfeh peninsula was once a mighty fortress area, the Crusader castle of Nephin, fief of the Counts of Tripoli. The Crusader Lords of Nephin, triply safe behind the walls of Enfeh, the vast rock-cut moat which severed the peninsula from the town, and the sea-swept battlements of their citadel, soon established a reputation as robber barons, the terror of travellers between Jerusalem and Tripoli. The town itself had a better reputation, for its wines were known and prized far and wide throughout the Latin kingdom in the 12th and 13th Centuries. Enfe entered its glory days during the Medieval era, and most of the archaeological and historical monuments that can be seen today date from this period.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_AMPI_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In 1289 Sultan Qalawun suddenly attacked, captured and destroyed Tripoli. The knights who escaped from the burning city to the two remaining coastal castles of Batroun and Nephin were unable to withstand the full fury of the Mamluk army and beat a further retreat to the island kingdom of Cyprus. Sultan Qalawun destroyed both castles so thoroughly that even the site of Batroun's citadel is lost from history. With Nephin it was a different story, for here the Crusaders had performed one of the great engineering feats of the Middle Ages. They had cut off the peninsular fortress from Enfe proper by cutting a great moat, at sea level, all the way across the peninsula, for over 100 yards, through the living rock, leaving only a small spur in the center at the south end to support the castle's drawbridge.</Text>
+		</Replace>
+
+		<!--Anuradhapura-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_ANURADHAPURA_NAME" Language="en_US">
+			<Text>Anuradhapura</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ANURADHAPURA_DESCRIPTION" Language="en_US">
+			<Text>Anuradhapura city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ANURADHAPURA_ADJECTIVE" Language="en_US">
+			<Text>Anuradhian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ANURADHAPURA" Language="en_US">
+			<Text>Anuradhapura</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ANURADHAPURA_NAME" Language="en_US">
+			<Text>Anuradhapura Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ANURADHAPURA_DESCRIPTION" Language="en_US">
+			<Text>Your Builders can now make Stupa improvements.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Anuradhapura is one of the ancient capitals of Sri Lanka, famous for its well-preserved ruins of an ancient Sri Lankan civilization. It was the third capital of the Kingdom of Rajarata, following the kingdoms of Tambapanni and Upatissa Nuwara.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>It is believed that King Pandukabhaya made it his capital in the 4th century BC, and that he also laid out the town and its suburbs according to a well-organized plan. He constructed a reservoir named Abhayavapi. He established shrines for yakkhas such as Kalawela and Cittaraja. He housed the Yaksini-Cetiya in the form of a mare within the royal precincts, and offerings were made to all these demi-gods every year. He chose the sites for the cemetery and for the place of execution, the Chapel of the Western Queen, the Pacchimarajini, the Vessavana Banyan Tree, the Palm of the Vyadhadeva, the Yona Quarter and the House of the Great Sacrifice. The slaves or Candalas were assigned their duties, and a village was set apart for them.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>With the introduction of Buddhism, the city gained more prominence and the great building era began. The Mahavansa states that King Kutakannatissa built the first city wall to a height of seven cubits with a moat in front of the wall. This fortification was further enlarged by raising the wall a further 11 cubits to 18 cubits by King Vasabha. The king also added fortified gatehouses at the entrances of which the ruins can be seen to date. The Mahavamsa also states that soothsayers and architects were consulted in the construction.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The city's popularity grew both as a ritual centre and as the administrative centre, a large population was attracted to the city for permanent settlement. Thus the living facilities were improved to accommodate the expanding population. King Vasabha constructed many ponds which were fed by a network of subterranean channels which were constructed to supply water to the city. The Tissa and Abhayavapi tanks were built, the Nuwara weva was built and the Malwatu Oya was dammed to build the Nachchaduwa wewa which was 4,408 acres (17.84 km2) in size.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Parks were also provided in the city. The Ranmasu Uyana below the bund of Tissavapi or Tissa weva was one such, but it was strictly reserved for the members of the royal family. Health care and education were two other aspects to which the authorities paid attention. There were several hospitals in the city. In the 4th century King Upatissa II provided quarters and homes for the crippled and the blind. King Buddhadasa (337-365 AD), himself a doctor of great repute, appointed a physician to be in charge of every ten villages. For the maintenance of these doctors, one tenth of the income from the fields was set apart. He also set up refuges for the sick in every village. Doctors were also appointed to look after the animals. Kassapa V (914-923 AD) founded a hospital close to the southern gate of Anuradhapura. General Sena in the 10th century is believed to have built a hospital close to the ceremonial street (Managala Veediya). The history of medical care began early, for in the 4th century BC King Pandukhabaya, in the course of sanitizing the town constructed a hospital. A large workforce was entrusted with the task of keeping the city clean.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Anuradhapura attained its highest magnificence about the commencement of the common era. The city had some of the most complex irrigation systems of the ancient world, situated in the dry zone of the country the administration built many tanks to irrigate the land. Most of these tanks still survive.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The area was uninhabited for many centuries, but the local population remained aware of the ruins. In Robert Knox's 1681 An Historical Relation of the Island Ceylon, he wrote: "At this City of Anurodgburro is a Watch kept, beyond which are no more people that yield obedience to the King of Candy". In 1821, John Davy wrote that: "Anooradapoora, so long the capital of Ceylon, is now a small mean village, in the midst of a desert. A large tank, numerous stone pillars, two or three immense tumuli, (probably old dagobahs,) are its principal remains. It is still considered a sacred spot; and is a place of pilgrimage."</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ANURADHAPURA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>The city currently has a population of 50,000.</Text>
+		</Replace>
+
+		<!--Arvad-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_ARVAD_NAME" Language="en_US">
+			<Text>Arvad</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ARVAD_DESCRIPTION" Language="en_US">
+			<Text>Arvad city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ARVAD_ADJECTIVE" Language="en_US">
+			<Text>Arvadite</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ARVAD" Language="en_US">
+			<Text>Arvad</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ARVAD_NAME" Language="en_US">
+			<Text>Arvad Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ARVAD_DESCRIPTION" Language="en_US">
+			<Text>Your City Centers gain +1 [ICON_Food] Food and +1 [ICON_Production] Production for each adjacent Coast tile.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Arwad, or Arvad, also called Ruad Island – located in the Mediterranean Sea, is the only inhabited island in Syria. The town of Arwad covers the entire island. It is located 3 kilometres (1.9 mi) from Tartus (ancient Tortosa), Syria's second largest port. Today, it is mainly a fishing town. The name Arvad is noted in the Bible as the progenitor of the Arvadites, a Canaanite people.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The island was settled in the early 2nd millennium BC by the Phoenicians. Under Phoenician control, it became an independent kingdom called Arvad Aradus or Jazirat (the latter term meaning "island"). The Phoenician name for the city was probably Aynook. The city has been cited as one of the first known examples of a republic in the world, in which the people, rather than a monarch, are described as sovereign. In Greek it was known as Arados. The city also appears in ancient sources as Arpad and Arphad. The city was renamed Antiochia in Pieria by Antiochus I Soter. The island was important as a base for commercial ventures into the Orontes valley.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Located some 50 kilometres (31 mi) north of Tripolis, it was a barren rock covered with fortifications and houses several stories in height. The island was about 800 m long by 500 m wide, surrounded by a massive wall, and an artificial harbor was constructed on the east toward the mainland. It developed into a trading city in early times, as did most of the Phoenician cities on this coast. It had a powerful navy, and its ships are mentioned in the monuments of Egypt and Assyria. It seems to have had a sort of hegemony over the northern Phoenician cities, from the mouth of the Orontes to the northern limits of Lebanon, something like that of Sidon in the south. It had its own local dynasty and coinage, and some of the names of its kings have been recovered.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Its maritime importance is indicated by the inscriptions of the Assyrian kings. Tiglath-pileser I (circa 1020) boasts that he sailed in the ships of Arvad. Ashurnasirpal II (circa 876) made it tributary, but it revolted, and 200 men of Arvad were mentioned among the allies of Hadadezer of Aram Damascus at the Battle of Qarqar, when all Syria seems to have been in league against Shalmaneser III (circa 854). At this time the king of Arvad was Mattan Baal. It was afterward tributary to Tiglath-pileser III and Sennacherib, the king who paid it to the latter being Abd-ilihit (circa 701). Ashurbanipal (circa 664) compelled its king Yakinlu to submit and send one of his daughters to become a member of the royal harem.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Under the Persians, Arvad was allowed to unite in a confederation with Sidon and Tyre, with a common council at Tripolis. When Alexander the Great invaded Syria in 332 BC, Arvad submitted without a struggle under her king Strato, who sent his navy to aid Alexander in the reduction of Tyre. It seems to have received the favor of the Seleucid kings of Syria, and enjoyed the right of asylum for political refugees. It is mentioned in a rescript from Rome about 138 BC, in connection with other cities and rulers of the East, to show favor to the Jews. This was after Rome had begun to interfere in the affairs of Judea and Syria, and indicates that Arvad was still of considerable importance at that time.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The city of Aradus, as it was then called, became a Christian bishopric. Athanasius reports that, under Roman Emperor Constantine the Great, Cymatius, the Catholic bishop of Aradus and also of Antaradus (whose names indicate that they were neighbouring towns facing each other) was driven out by the Arians. At the First Council of Constantinople in 381, Mocimus appears as bishop of Aradus. At the time of the Council of Ephesus (431), some sources speak of a Musaeus as bishop of Aradus and Antaradus, while others mention only Aradus or only Antaradus. Alexander was at the Council of Chalcedon in 451 as bishop of Antaradus, Paulus as bishop of Aradus, while, at a synod held at Antioch shortly before, Paulus took part as bishop of both Aradus and Antaradus.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>In 458, Atticus signed, as bishop of Aradus, the letter of the bishops of the province of Phoenicia Prima to Byzantine Emperor Leo I the Thracian protesting about the murder of Proterius of Alexandria. Theodorus or Theodosius, who died in 518, is mentioned as bishop of Antaradus in a letter from the bishops of the province regarding Severus of Antioch that was read at a synod held by Patriarch Mennas of Constantinople. The acts of the Second Council of Constantinople in 553 were signed by Asyncretius as bishop of Aradus. At the time of the Crusades, Antaradus, by then called Tartus or Tortosa, was a Latin Church diocese, whose bishop also held the titles of Aradus and Maraclea (perhaps Rachlea). It was united to the see of Famagusta in Cyprus in 1295. No longer a residential bishopric, Aradus is today listed by the Catholic Church as a titular see.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>During the later part of the 13th century, in the time of the Crusades, the island of Ruad was used as a bridgehead or staging area by the Crusaders. It was the last piece of land that the Crusaders maintained in the Holy Land, as they were fighting a losing battle against the Muslims.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>The Crusaders had lost control of the mainland in 1291, and the dwindling Kingdom of Jerusalem had been relocated to the island of Cyprus. In late 1300, in an attempt to coordinate military operations with the Mongol leader Ghazan, the Cypriots prepared a land-based force of approximately 600 men: 300 under Amalric of Lusignan, son of Hugh III of Cyprus, and similar contingents from the Templars and Hospitallers. The men and their horses were ferried from Cyprus to a staging area on Ruad, from which they launched raids on Tortosa while awaiting Mongol reinforcements. When the Mongols failed to arrive, the majority of the Christian forces returned to Cyprus, though a garrison was left on Ruad which was manned by rotating groups of different Cypriot forces. Pope Clement V formally awarded ownership of the island to the Knights Templar, who (in 1302) maintained a garrison with 120 knights, 500 bowmen and 400 Syrian helpers, under the Templar Maréchal (Commander-in-Chief) Barthélemy de Quincy.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>In February 1301, the Mongols did arrive with a force of 60,000, but could do little else than engage in some raids around Syria. The Mongol leader Kutluka stationed 20,000 horsemen in the Jordan valley to protect Damascus, where a Mongol governor was installed. Soon however, they had to withdraw.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ARVAD_CHAPTER_HISTORY_PARA_11" Language="en_US">
+			<Text>The Egyptian Mamluks, who had been systematically re-establishing control over Palestine and Syria, sought to take Ruad as well. A Mamluk fleet landed a force on the island, engaging in combat with the entrenched Templars, and then establishing a lengthy siege, culminating with the Fall of Ruad, and the Crusaders surrendering on September 26, 1302, following a promise of safe conduct. However, the promise was not honored: all the bowmen and Syrian helpers were killed, and the Templar knights were sent to Cairo prisons.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CVS_ARVAD_ADJACENCY_FOOD" Language="en_US">
+			<Text>+{1_num} [ICON_Food] Food from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ARVAD_ADJACENCY_PRODUCTION" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+
+		<!--Beikthano-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_BEIKTHANO_NAME" Language="en_US">
+			<Text>Beikthano</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_BEIKTHANO_DESCRIPTION" Language="en_US">
+			<Text>Beikthano city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_BEIKTHANO_ADJECTIVE" Language="en_US">
+			<Text>Beikthanan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BEIKTHANO" Language="en_US">
+			<Text>Beikthano</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_BEIKTHANO_NAME" Language="en_US">
+			<Text>Beikthano Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_BEIKTHANO_DESCRIPTION" Language="en_US">
+			<Text>Your cities gain +3 [ICON_Ranged] Ranged Strength and +5 City [ICON_Strength] Defense Strength for each level of walls constructed.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BEIKTHANO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Beikthano is the oldest Pyu city-state, originally founded between 200 and 100 BC. It was heavily fortified, with walls measuring six meters thick. It may have been the center of the first culturally (and perhaps politically) unified state in Burma.</Text>
+		</Replace>
+
+		<!--Butuan-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_BUTUAN_NAME" Language="en_US">
+			<Text>Butuan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_BUTUAN_DESCRIPTION" Language="en_US">
+			<Text>Butuan city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_BUTUAN_ADJECTIVE" Language="en_US">
+			<Text>Butuan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_BUTUAN" Language="en_US">
+			<Text>Butuan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_BUTUAN_NAME" Language="en_US">
+			<Text>Butuan Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_BUTUAN_DESCRIPTION" Language="en_US">
+			<Text>Your land units gain +2 [ICON_Movement] Movement when embarked and ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Butuan, officially the City of Butuan and often referred to as Butuan City, is a highly urbanized city in the Philippines and the regional center of Caraga. It is located at the northeastern part of the Agusan Valley, Mindanao, sprawling across the Agusan River. It is bounded to the north, west and south by Agusan del Norte, to the east by Agusan del Sur and to the northwest by Butuan Bay.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Butuan, during the pre-colonial times, was known as the Rajahnate of Butuan, an Indianized kingdom known for its metallurgic industry and sophisticated naval technology. The rajahnate flourished at the 10th and 11th centuries CE, and had an extensive trade network with the Champa civilisation and the Srivijaya Empire. By 1001, the rajahnate had established contact with the Song dynasty of China. The History of Song recorded the appearance of a Butuan mission at the Chinese imperial court, and the rajahnate was described as a small Hindu country with a Buddhist monarchy, which had a regular trade connection with Champa.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>On March 31, 1521, an Easter Sunday, Ferdinand Magellan ordered a mass to be celebrated. This was officiated by Friar Pedro Valderrama, the Andalusian chaplain of the fleet, the only priest then. Another priest, the French Bernard Calmette (Bernardo Calmeta) had been marooned at Patagonia with Juan de Cartagena for being implicated in the mutiny at Puerto San Julián. Conducted near the shores of the island, the Holy First Mass marked the birth of Roman Catholicism in the Philippines. Rajah Colambu and Siaiu were said to be among the first natives of the soon-to-be Spanish colony to attend the mass among other Mazaua inhabitants, together with visitors from Butuan who came with the entourage of Colambu, king of Butuan.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>During the Japanese occupation of the Philippines in World War II, more than half of Butuan, if not all of it, was burned when local guerrilla forces attacked the enemy garrison on 12 March 1943 in the Battle of Butuan. On January 17, 1945, guerrillas attacked Japanese troops on the road between Cabadbaran and Butuan to prevent the Japanese garrison at Butuan from being reinforced. When the guerrillas depleted their ammunition supply, they were forced to retreat. Later in 1945, the Philippine Commonwealth troops in Butuan together with the recognized guerrillas attacked the Japanese forces during the Battle of Agusan. On October 20, 1948, still recovering from the war, the entire municipality was ruined by a fire.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>By the late 1940s to the 1970s, Butuan's industry specialized in timber, earning it the nickname, "Timber City of the South". The plentiful trees of the area invited many investors to the city, and inspired then-congressman Marcos M. Calo to file a bill elevating Butuan for cityhood. On August 2, 1950, this was passed converting Butuan into a city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_BUTUAN_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>However, by the early 1980s, the logging industry of the city began to decline, although the city was still an economic haven to many investors. The city's main income by that time frame and until this day depended on small and medium business, and large-scale projects by investors. In February 7, 1995, the city was reclassified from a chartered city to a Highly Urbanized city. 16 days later, on February 23, the region of Caraga was created by virtue of Republic Act 7901, with Butuan as its regional center, and the provincial capital of Agusan del Norte. In 2000, Republic Act 8811 formally transferred the capital of Agusan del Norte from Butuan to Cabadbaran, however most provincial offices are still located in the city.</Text>
+		</Replace>
+
+		<!--Catalhoyuk-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_CATALHOYUK_NAME" Language="en_US">
+			<Text>Çatalhöyük</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CATALHOYUK_DESCRIPTION" Language="en_US">
+			<Text>Çatalhöyük city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CATALHOYUK_ADJECTIVE" Language="en_US">
+			<Text>Çatalhöyük</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CATALHOYUK" Language="en_US">
+			<Text>Çatalhöyük</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CATALHOYUK_NAME" Language="en_US">
+			<Text>Çatalhöyük Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CATALHOYUK_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_CVS_RESOURCE_LEATHER] Leather Luxury resource. This cannot be earned any other way in the game, and provides 6 [ICON_Amenities] Amenities. Pasture improvements provide +1 [ICON_Housing] Housing.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CATALHOYUK_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Çatalhöyük was a large Neolithic and Chalcolithic proto-city settlement in southern Anatolia. It existed between 7500 BCE to 5700 BCE, flourishing circa 7000 BCE. The site overlooks the Konya Plain, southeast of ancient Iconium.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CATALHOYUK_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Çatalhöyük is composed entirely of domestic buildings with no obvious public buildings. Some rooms have ornate murals, but the purpose of some rooms remains unclear. The people of Çatalhöyük buried their dead within the village, and human remains have been found in many places. There were no apparent social classes and little apparent social distinction based on gender. Upper levels of the cite reveal that the people were gaining agricultural skills. Peas were grown, and almonds, pistachios, and fruits were harvested nearby.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CATALHOYUK_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Çatalhöyük was first excavated by the late, controversial British archaeologist James Mellaart in 1958. After the Dorak affair (in which Mellaart published drawings of supposedly important Bronze Age artifacts that later went missing), he was banned from Turkey. The site lay idle until 1993, when further investigations began under Ian Hodder of the University of Cambridge. Hodder was a former student of Mellaart, and he used the site as his first real-world test of post-processual archaeology.</Text>
+		</Replace>
+
+		<!--Chan Chan-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHAN_CHAN_NAME" Language="en_US">
+			<Text>Chan Chan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHAN_CHAN_DESCRIPTION" Language="en_US">
+			<Text>Chan Chan city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHAN_CHAN_ADJECTIVE" Language="en_US">
+			<Text>Chan Chan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHAN_CHAN" Language="en_US">
+			<Text>Chan Chan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CHAN_CHAN_NAME" Language="en_US">
+			<Text>Chan Chan Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CHAN_CHAN_DESCRIPTION" Language="en_US">
+			<Text>Your Palace provides double yields, [ICON_Amenities] Amenities, and [ICON_Housing] Housing. Your districts next to the Government Plaza gain an additional Standard adjacency bonus.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHAN_CHAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Chan Chan was the largest pre-Columbian era city in South America. It is now an archaeological site west of Trujillo, Peru.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHAN_CHAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Chan Chan is located in the mouth of the Moche Valley and was the capital of the historical empire of the Chimor from 900 to 1470, when they were defeated and incorporated into the Inca Empire. Chimor, a conquest state,developed from the Chimú culture which established itself along the Peruvian coast around 1400 AD. In the Chimú tongue, Quingnam, Chan Chan means "Sun Sun;" it was named for its sunny climate which is cooled year round by a southerly breeze.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHAN_CHAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After the Inca conquered the Chimú around 1470 AD, Chan Chan fell into decline. In 1535 AD, Francisco Pizarro founded the Spanish city of Trujillo which pushed Chan Chan further into the shadows. While no longer a teeming capital city, Chan Chan was still well known for its great riches and was consequently looted by the Spaniards. An indication of the great Chimú wealth is seen in a sixteenth century list of items looted from a burial tomb in Chan Chan; a treasure equivalent to 80,000 pesos of gold was recovered (nearly $5,000,000 US dollars in gold).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHAN_CHAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Chan Chan is in a particularly arid section of the coastal desert of northern Peru. Due to the lack of rain in this area, the major source of water for Chan Chan is in the form of rivers carrying surface runoff from the Andes. This runoff allows for control of land and water through irrigation systems.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHAN_CHAN_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The city of Chan Chan spanned 20 km² and had a dense urban center of 6 km² which contained extravagant ciudadelas. Ciudadelas were large architectural masterpieces which housed plazas, storerooms, and burial platforms for the royals. The splendor of these ciudadelas suggests their association with the royal class. Housing for the lower classes of Chan Chan's hierarchical society are known as small, irregular agglutinated rooms (SIARs). Because the lower classes were often artisans whose role in the empire was to produce crafts, many of these SIARs were used as workshops.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CVS_CHAN_CHAN_ADJACENCY_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Government Plaza.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CHAN_CHAN_ADJACENCY_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Government Plaza.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CHAN_CHAN_ADJACENCY_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Government Plaza</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CHAN_CHAN_ADJACENCY_PRODUCTION" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Government Plaza.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CHAN_CHAN_ADJACENCY_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Government Plaza.</Text>
+		</Replace>
+
+		<!--Chetro Ketl-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHETRO_KETL_NAME" Language="en_US">
+			<Text>Chetro Ketl</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHETRO_KETL_DESCRIPTION" Language="en_US">
+			<Text>Chetro Ketl city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_CHETRO_KETL_ADJECTIVE" Language="en_US">
+			<Text>Chacoans</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_CHETRO_KETL" Language="en_US">
+			<Text>Chetro Ketl</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CHETRO_KETL_NAME" Language="en_US">
+			<Text>Chetro Ketl Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_CHETRO_KETL_DESCRIPTION" Language="en_US">
+			<Text>Your Builders can now make Great Kiva improvements.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHETRO_KETL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Chetro Ketl is an Ancestral Puebloan great house and archeological site located in Chaco Culture National Historical Park, New Mexico, United States. Construction on Chetro Ketl began around 990 and was largely complete by 1075, with significant remodeling occurring in the early and mid-1110s. Following the onset of a severe drought, most Chacoans emigrated from the canyon by 1140; by 1250 Chetro Ketl's last inhabitants had vacated the structure.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHETRO_KETL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Chaco scholars estimate that it required more than 500,000 man-hours, 26,000 trees, and 50 million sandstone blocks to erect Chetro Ketl. The great house is a D-shaped structure; its east wall is 280 feet (85 m) long, and the north wall is more than 450 feet (140 m); the perimeter is 1,540 feet (470 m), and the diameter of the great kiva is 62.5 feet (19.1 m). Chetro Ketl contained approximately 400 rooms and was the largest great house by area in Chaco Canyon, covering nearly 3 acres (1.2 ha). Chetro Ketl lies 0.4 miles (0.64 km) from Pueblo Bonito, in an area that archeologists call downtown Chaco; they theorize that the area may be an ancestral sacred zone. Chetro Ketl contains architectural elements, such as a colonnade and tower kiva, that appear to reflect a Mesoamerican influence.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_CHETRO_KETL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Chetro Ketl's purpose is widely debated but many archeologists believe the building was a place of large-scale ceremony that held an important position within the larger Chacoan system. It may have been occupied primarily by groups of priests and, during times of ritual, pilgrims from outlying communities. Archeologist Stephen H. Lekson believes Chetro Ketl was a palace inhabited by Chacoan royalty, and the scale of its construction was motivated by what architects call "massing": building imposing structures with the intent to impress onlookers.</Text>
+		</Replace>
+
+		<!--Delos-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_DELOS_NAME" Language="en_US">
+			<Text>Delos</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_DELOS_DESCRIPTION" Language="en_US">
+			<Text>Delos city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_DELOS_ADJECTIVE" Language="en_US">
+			<Text>Delosian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DELOS" Language="en_US">
+			<Text>Delos</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_DELOS_NAME" Language="en_US">
+			<Text>Delos Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_DELOS_DESCRIPTION" Language="en_US">
+			<Text>Your tiles with Breathtaking Appeal double their base terrain yields.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DELOS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Delos was a holy sanctuary for a millennium before Greek mythology dubbed it the Birthplace of Apollo and Artemis. Between 900 BCE and 100 CE, Delos was a major cult center that acquired panhellenic religious significance. The island of Delos had a cultural significance to the Greeks that far surpassed what its scant resources could ever have offered.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DELOS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Athenians purified the island for the proper worship of the gods several times. The tyrant Pisistratus ordered that all graves within sight of the temple be dug up and moved to a nearby island. Later, in the 5th century BCE, the entire island was purged of all corpses at the direction of the oracle at Delphi. It was then ordered that no one should be allowed to ever die or give birth on the island.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DELOS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Delos became the meeting ground for the Delian League, founded in 478 BCE. The league’s treasury was kept here as well, until Pericles moved it to Athens in 454 BCE. Delos rose in commercial prominence after the Roman destruction of Corinth in 146 BCE, but the island was assaulted by Mithridates VI of Pontus during the Mithridatic Wars with Rome. Delos was supplanted by Puteoli as the chief focus of Italian trade with the East, and its status as a cult center sharply declined. Without adequate resources for a self-supporting community, Delos became uninhabited in later times.</Text>
+		</Replace>
+
+		<!--Dodona-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_DODONA_NAME" Language="en_US">
+			<Text>Dodona</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_DODONA_DESCRIPTION" Language="en_US">
+			<Text>Dodona city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_DODONA_ADJECTIVE" Language="en_US">
+			<Text>Dodonan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_DODONA" Language="en_US">
+			<Text>Dodona</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_DODONA_NAME" Language="en_US">
+			<Text>Dodona Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_DODONA_DESCRIPTION" Language="en_US">
+			<Text>During your [ICON_GLORY_GOLDEN_AGE] Golden Ages [ICON_CivicBoosted] Inspirations provide an additional 10% of the cost for civics. During your [ICON_GLORY_DARK_AGE] Dark Ages [ICON_CivicBoosted] Inspirations provide additional Era Score.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DODONA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Dodona in Epirus was the location of the oldest Hellenic oracle, possibly dating back to the second millennium BCE. Homer describes the oracle at Dodona as an oracle to Zeus. The sanctuary was situated away from the main Greek polis. Aristotle considered the region surrounding Dodona to as the origin of Hellas. It remained an important sanctuary until the rise of Christianity. Originally, Dodona may have been an oracle dedicated to a mother goddess, but was eventually supplanted by worship of Zeus.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DODONA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The priestesses and priests of Dodona in the sacred grove interpreted the rustling of the oak (or beech) leaves to determine the correct actions to be taken. The oracular sound may have originated from bronze objects hanging from oak branches and sounded with the wind blowing, similar to a wind chime. This is in stark contrast to the method of the Pythia at Delphi, who inhaled intoxicating fumes emanating from a fissure in the earth.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_DODONA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Zeus was worshipped at Dodona as Zeus Neuos and Zeus Bouleus. Though it never eclipsed the oracle of Apollo at Delphi, the oracle of ZAeus at Dodona gained a reputation far beyond Hellas. Pilgrims continued to consult the oracle until the closing of all pagan temples by the Roman emperor Theodosius. Although the surviving town was insignificant, the long-hallowed pagan site must have retained significance for Christians given that a Bishop Theodorus of Dodona attended the First Council of Ephesus in 431 CE.</Text>
+		</Replace>
+
+		<!--Etzanoa-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_ETZANOA_NAME" Language="en_US">
+			<Text>Etzanoa</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ETZANOA_DESCRIPTION" Language="en_US">
+			<Text>Etzanoa city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_ETZANOA_ADJECTIVE" Language="en_US">
+			<Text>Etzanoan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_ETZANOA" Language="en_US">
+			<Text>Etzanoa</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ETZANOA_NAME" Language="en_US">
+			<Text>Etzanoa Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_ETZANOA_DESCRIPTION" Language="en_US">
+			<Text>Your Aqueduct and Neighborhood districts gain bonus [ICON_Food] Food and [ICON_Housing] Housing based on their tile Appeal.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ETZANOA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Rayados was the Spanish name for a Native American group visited by Umana and Leyba in 1594 and Juan de Oñate in 1601. The Rayado village, called Etzanoa, the "Great Settlement," was probably in southern Kansas near the Arkansas River. The Rayados were Wichita Indians related to those visited in Quivira by Francisco Vásquez de Coronado in 1541. Most authorities agree that the Rayados were Caddoan speaking and members of one of several sub-tribes of the Wichita people. Their grass houses, dispersed mode of settlement, a chief named Catarax, a Wichita title, the description of their granaries, and their location all agree with descriptions of the Wichita.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ETZANOA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Both Jusepe's and Onate's accounts describe the Rayados as numerous. The more than 1200 houses Onate estimated to be in the settlement indicates a population of at least 12,000, if the houses was as large as those of later Wichita tribes. Moreover, Catarax said there were additional settlements upstream on that river and on other rivers. The fact that the Rayados abandoned their settlement on the arrival of Onate's expedition may be an indication that they had previous, and unfavorable, dealings with the Spanish.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_ETZANOA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>An Indian captured from the Escanjaques by Onate, and later named Miguel, drew a map of the region for the Spanish. He called the "Great Settlement" of the Rayados "Etzanoa" or "Tzanoa."</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ETZANOA_APPEAL_FOOD_DESCRIPTION" Language="en_US">
+			<Text>+{1_num} [ICON_Food] Food from the tile's Appeal.</Text>
+		</Replace>
+
+		<!--Gobekli Tepe-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_GOBEKLI_TEPE_NAME" Language="en_US">
+			<Text>Göbekli Tepe</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_GOBEKLI_TEPE_DESCRIPTION" Language="en_US">
+			<Text>Göbekli Tepe city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_GOBEKLI_TEPE_ADJECTIVE" Language="en_US">
+			<Text>Göbekli Tepe</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GOBEKLI_TEPE" Language="en_US">
+			<Text>Göbekli Tepe</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_GOBEKLI_TEPE_NAME" Language="en_US">
+			<Text>Göbekli Tepe Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_GOBEKLI_TEPE_DESCRIPTION" Language="en_US">
+			<Text>Gain 2 random [ICON_CivicBoosted] Inspirations for every Wonder you own based on its unlock era. This bonus can only be earned once per Wonder.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GOBEKLI_TEPE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Göbekli Tepe is an archaeological site in the Southeastern Anatolia Region of Turkey. It was founded in the 10th millennium BCE and abandoned during the 8th millennium BCE. The tell includes two phases of use. During the first phase, the world’s oldest known megaliths were erected. In the second phase, smaller pillars were erected. The site was abandoned after this second phase.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GOBEKLI_TEPE_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The surviving structures predate pottery, metallurgy, and the invention of writing and the wheel. Indeed, the existing structures were erected before the Neolithic Revolution. The site has been interpreted as a stone-age mountain sanctuary, a location for a mortuary cult. Despite this, no tombs or graves have been found so far.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GOBEKLI_TEPE_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Gobekli Tepe is regarded as a site of great archaeological importance. Further knowledge and excavation may shed light on a crucial period in the development of human society. There are no comparable monumental complexes from its time. At present, Gobekli Tepe raises more questions for archaeology and prehistory than it answers.</Text>
+		</Replace>
+
+		<!--Guapondelig-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_GUAPONDELIG_NAME" Language="en_US">
+			<Text>Guapondelig</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_GUAPONDELIG_DESCRIPTION" Language="en_US">
+			<Text>Guapondelig city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_GUAPONDELIG_ADJECTIVE" Language="en_US">
+			<Text>Guapondelig</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_GUAPONDELIG" Language="en_US">
+			<Text>Guapondelig</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_GUAPONDELIG_NAME" Language="en_US">
+			<Text>Guapondelig Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_GUAPONDELIG_DESCRIPTION" Language="en_US">
+			<Text>Your melee and anti-cavalry units gain faster [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength on Hill terrain. You civilian units also gain faster Hill [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GUAPONDELIG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Guapondelig was a city founded by the Cañari where the present day city of Cuenca, Ecuador, sits. After being conquered by the Inca, Guapondelig was renamed to Tumebamba (or Tumepampa).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GUAPONDELIG_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The ethnic Cañari people had lived in this area for at least 500 years before the arrival of the Incas. The Inca emperor Topa Inca Yupanqui (ruled 1471-1493) incorporated this area into the empire after long and arduous campaigns against the Cañari. His son and successor, Huayna Capac, was probably born in Tumebamba and was responsible for most of the Inca construction in the city. Huayna Capac envisioned Tumebamba as the northern capital of the Inca Empire and modeled the construction on that of Cuzco, the Inca capital. Huayna Capac had a royal palace here.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GUAPONDELIG_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Spanish stories that Huanya Capac had building stones transported from Cuzco to Inca centers, including Tumebamba, in present-day Ecuador were confirmed in 2004. Archaeologists identified stone building blocks in Ecuador that had an origin in a quarry near Cuzco. The scholars found 450 stones, weighing up to 700 kilograms (1,500 lb) each, that had been transported more than 1,600 kilometres (990 mi) on Inca roads traversing the high and rugged Andes. The Incas lacked draft animals and wheeled vehicles so the transport was by manpower only, possibly by laborers conscripted by the Incas among the peoples who had opposed their rule. The monumental task of transporting the stones also indicates the priority Huayna Capac placed on making Tumebamba an alternative or secondary capital of the empire.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GUAPONDELIG_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In the words of a scholar, "These stones embodied the transfer of sanctity and power from the imperial capital to the city of Tomebamba in Ecuador, while their movement was a major public demonstration of state control over labor." The Inca also quarried building stones at Cojitambo, 18 kilometres (11 mi) in a straight line distance northeast.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_GUAPONDELIG_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Huayna Capac and many other Incas died in an epidemic (probably of a European-introduced disease) about 1525 and his sons Huascar and Atahualpa contested the succession. Several battles in the civil war which followed were near Tumepampa and the Inca city was largely destroyed. The Cañari inhabitants had taken the side of Huascar and were severely treated by Atahualpa.</Text>
+		</Replace>
+
+		<!--Hadad-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_HADAD_NAME" Language="en_US">
+			<Text>Hadad</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HADAD_DESCRIPTION" Language="en_US">
+			<Text>Hadad city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HADAD_ADJECTIVE" Language="en_US">
+			<Text>Hadad</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HADAD" Language="en_US">
+			<Text>Hadad</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HADAD_NAME" Language="en_US">
+			<Text>Hadad Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HADAD_DESCRIPTION" Language="en_US">
+			<Text>Your Government Plaza buildings provide +1 [ICON_Amenities] Amenity each, and your [ICON_Capital] Capital gains an additional +1 [ICON_Housing] Housing per Era.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Hadad, now known as Aleppo, has been occupied for approximately 7000 years. The first record of Aleppo comes from the third millennium BC, when Aleppo was the capital of an independent kingdom closely related to Ebla, known as Armi to Ebla and Arman to the Akkadians. In the Old Babylonian period, Aleppo's name appears as Halab (Halba) for the first time. Aleppo was the capital of the important Amorite dynasty of Yamhad. The kingdom of Yamhad (ca. 1800-1600 BC), alternatively known as the 'land of Halab,' was the most powerful in the Near East at the time.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Yamhad was destroyed by the Hittites under Mursilis I in the 16th century BC. However, Aleppo soon resumed its leading role in Syria when the Hittite power in the region waned due to internal strife. Taking advantage of the power vacuum in the region, Parshatatar, king of the Hurrian kingdom of Mitanni, conquered Aleppo in the 15th century BC. Subsequently, Aleppo found itself on the frontline in the struggle between the Mitanni and the Hittites and Egypt. The Hittite Suppiluliumas I permanently defeated Mitanni and conquered Aleppo in the 14th century BC. Aleppo had cultic importance to the Hittites for being the center of worship of the Storm-God.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>When the Hittite kingdom collapsed in the 12th century BC, Aleppo became part of the Syro-Hittite kingdom of Palistin, then the Aramaean Syro-Hittite kingdom of Bit Agusi (which had its capital at Arpad), it stayed part of that kingdom until conquered by the Assyrians In the 9th century BC, and became part of the Neo-Assyrian Empire until the late 7th century BC, before passing through the hands of the Neo-Babylonians and the Achamenid Persians.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Alexander the Great took over the city in 333 BC. Seleucus Nicator established a Hellenic settlement in the site between 301-286 BC. He called it Beroea (Βέροια), after Beroea in Macedon. Beroea remained under Seleucid rule for nearly 300 years until the last holdings of the Seleucid dynasty were handed over to Pompey in 64 BC, at which time they became a Roman province. Rome's presence afforded relative stability in northern Syria for over three centuries. Although the province was administered by a legate from Rome, Rome did not impose its administrative organization on the Greek-speaking ruling class.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The Sassanid Persians invaded Syria briefly in the early 7th century. Soon after Aleppo fell to Arabs under Khalid ibn al-Walid in 637. In 944, it became the seat of an independent Emirate under the Hamdanid prince Sayf al-Daula, and enjoyed a period of great prosperity. After Tamerlane invaded Aleppo in 1400 and destroyed it, the Christians migrated out of the city walls and established their own cell in 1420, at the northwestern suburbs of the city, thus founding the quarters of Jdeydeh. The inhabitants of Jdeydeh were mainly brokers who facilitated trade between foreign traders and local merchants. Many other districts were built outside the historic walls during the 15th and 16th centuries.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Aleppo became part of the Ottoman Empire in 1516, and hanks to its strategic geographic location on the trade route between Anatolia and the east, Aleppo rose to high prominence in the Ottoman era, at one point being second only to Constantinople in the empire. By the middle of the 16th century, Aleppo had displaced Damascus as the principal market for goods coming to the Mediterranean region from the east. Eventually Aleppo's trading importance waned with the opening of the Suez canal, yet it remained an important regional center, and does to this day.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HADAD_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>In 2012, the Battle of Aleppo, a major military confrontation in the Syrian Civil War, began, and the siege lasted for four years. The Syrian government won the battle, but widespread fighting devastated the city.</Text>
+		</Replace>
+
+		<!--Halin-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_HALIN_NAME" Language="en_US">
+			<Text>Halin</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HALIN_DESCRIPTION" Language="en_US">
+			<Text>Halin city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HALIN_ADJECTIVE" Language="en_US">
+			<Text>Halinese</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HALIN" Language="en_US">
+			<Text>Halin</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HALIN_NAME" Language="en_US">
+			<Text>Halin Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HALIN_DESCRIPTION" Language="en_US">
+			<Text>Your cities produce +0.5 [ICON_Faith] Faith per [ICON_Citizen] Citizen for each Holy Site building completed.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HALIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The fortified city of Halin was located in the fertile Mu valley, and had a canal running through it along with twelve gates in its walls. Originally founded around AD 70, Halin's design influenced later urban centers such as Sukhothai.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HALIN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Halinese artifacts suggest that Halin pioneered the use of a written script among the Pyu city-states, based on an early Brahmi script. Halin was also known for its salt works, and became the most powerful city-state (superceding Sri Ksetra) in the 7th century.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HALIN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The city came under attack from warriors invading from the Nanzhao Kingdom, and the city was destroyed in 832 AD.</Text>
+		</Replace>
+
+		<!--Hazor-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_HAZOR_NAME" Language="en_US">
+			<Text>Hazor</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HAZOR_DESCRIPTION" Language="en_US">
+			<Text>Hazor city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_HAZOR_ADJECTIVE" Language="en_US">
+			<Text>Hazorite</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_HAZOR" Language="en_US">
+			<Text>Hazor</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HAZOR_NAME" Language="en_US">
+			<Text>Hazor Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_HAZOR_DESCRIPTION" Language="en_US">
+			<Text>Your Levied units suffer no [ICON_Strength] Combat Strength penalties when [ICON_Damaged] Damaged and may [ICON_Pillaged] Pillage at a reduced [ICON_Movement] Movement cost.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HAZOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In the Middle Bronze Age (around 1750 BC) and the Israelite period (ninth century BC), Hazor was the largest fortified city in the country and one of the most important in the Fertile Crescent. It maintained commercial ties with Babylon and Syria, and imported large quantities of tin for the bronze industry. In the Book of Joshua, Hazor is described as “the head of all those kingdoms” (Josh. 11:10). Later in Joshua, Hazor is recorded as the seat of Jabin, a powerful Canaanite king who led a Canaanite confederation against Joshua, but was defeated by Joshua, who burnt Hazor to the ground.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HAZOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The archaeological remains suggest that after its destruction, the city of Hazor was rebuilt as a minor village within "the territory of Naphtali" (Joshua 19:36). According to the Books of Kings, the town, along with Megiddo, and Gezer, was substantially fortified and expanded by Solomon. Like Megiddo and Gezer, the remains at Hazor show that during the Early Iron Age the town gained a highly distinctive six chambered gate, as well as a characteristic style to its administration buildings; archaeologists determined that these constructions at Hazor were built by the same leadership as those at Megiddo and Gezer.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HAZOR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Archaeological remains indicate that towards the later half of the 9th century BC, when the king of Israel was Jehu, Hazor fell into the control of Aram Damascus. Some archaeologists suspect that subsequent to this conquest Hazor was rebuilt by Aram, probably as an Aramaean city. When the Assyrians later defeated the Aramaeans, Hazor seemingly returned to Israelite control; Assyrian records indicate that Joash, king of Israel at the time, had paid tribute to Assyria and Israel had become an Assyrian vassal. Subsequently, the town, along with the remainder of the kingdom of Israel, entered a period of great prosperity, particularly during the rule of Jeroboam II. Some archaeologists attribute the later large scale constructions at Hazor, Megiddo, and Gezer, including the rock cut water supply systems, to this era.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_HAZOR_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Israel's attempted rebellion against Assyrian domination resulted in an invasion by the forces of the Assyrian ruler, Tiglath-Pileser III; the evidence on the ground suggests that hasty attempts were made to reinforce the defenses of Hazor. Despite the defences, in 732 BC Hazor was captured, its population deported, and the city was burnt to the ground.</Text>
+		</Replace>
+
+		<!--Iqaluit-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_IQALUIT_NAME" Language="en_US">
+			<Text>Iqaluit</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_IQALUIT_DESCRIPTION" Language="en_US">
+			<Text>Iqaluit city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_IQALUIT_ADJECTIVE" Language="en_US">
+			<Text>Iqalummiut</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_IQALUIT" Language="en_US">
+			<Text>Iqaluit</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_IQALUIT_NAME" Language="en_US">
+			<Text>Iqaluit Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_IQALUIT_DESCRIPTION" Language="en_US">
+			<Text>Coastal Tundra and Snow tiles provide +2 [ICON_Food] Food within your borders.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_IQALUIT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Iqaluit, meaning "place of fish", is the capital of the Canadian territory of Nunavut; its largest community, and its only city. It was known as Frobisher Bay until 1987, after the large bay on the coast of which the city is situated. In 1999, Iqaluit became the capital of Nunavut after the division of the Northwest Territories into two separate territories. Before this event, Iqaluit was a small city and not well-known outside the Canadian Arctic or Canada, with population and economic growth highly limited. This is due to the city's isolation and heavy dependence on expensively imported supplies as the city, like the rest of Nunavut, has no road, rail, or even ship connections for part of the year to the rest of Canada. The city also has a polar climate, influenced by the cold deep waters of the Labrador Current just off Baffin Island; this makes the city of Iqaluit cold, even though the city is well south of the Arctic Circle.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_IQALUIT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Iqaluit has been a traditional fishing location used by Inuit for thousands of years, hence the name Iqaluit, which means place of many fish. In 1942 an American air base was built there, intended to provide a stop-over and refuelling site for short range aircraft being ferried to Europe to support the war effort. Iqaluit's first permanent resident was Nakasuk, an Inuk guide who helped American Air Force planners to choose a site with a large flat area suitable for a landing strip. The wartime airstrip was known as Crystal Two and was part of the Crimson Route. Long regarded as a campsite and fishing spot by the Inuit, the place chosen had been called Iqaluit – "place of many fish" in Inuktitut – but Canadian and American authorities named it Frobisher Bay, after the name of the body of water it abuts.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_IQALUIT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Hudson's Bay Company moved its south Baffin operations to the neighbouring valley of Niaqunngut, officially called Apex, in 1949 to take advantage of the airfield. The population of Frobisher Bay increased rapidly during the construction of the Distant Early Warning Line (DEW line, a system of radar stations, see North American Aerospace Defense Command (NORAD)) in the mid-1950s. Hundreds of construction workers, military personnel, and administrative staff moved into the community, and several hundred Inuit followed to take advantage of the access to medical care and jobs the base provided. In 1957, 489 of the town's 1,200 residents were reported to be Inuit. After 1959, the Canadian government established permanent services at Frobisher Bay, including full-time doctors, a school and social services. The Inuit population grew rapidly in response, as the government encouraged Inuit to settle permanently in communities with government services.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_IQALUIT_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The American military left Iqaluit in 1963, as intercontinental ballistic missiles (ICBM) diminished the strategic value of the DEW line and Arctic airbases, but Frobisher Bay remained the government's administrative and logistical centre for much of the eastern Arctic. In 1964, the first elections were held for a community council, and in 1979 for the first mayor. The founding of the Gordon Robertson Educational Centre, now Inuksuk High School, in the early 1970s at Iqaluit confirmed the government's commitment to the community as an administrative centre. At the time of its founding, it was the sole high school operating in more than one-seventh of Canadian territory.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_IQALUIT_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>On 1 January 1987, the name of the municipality was changed from "Frobisher Bay" to "Iqaluit" – aligning official usage with the name that the Inuit population had always used (although, many documents still referred to Iqaluit as Frobisher Bay for several years after 1987). In December 1995, Iqaluit was selected to serve as Nunavut's future capital in a territory-wide referendum, in which it was chosen over Rankin Inlet. On 19 April 2001, it was redesignated as a city.</Text>
+		</Replace>
+
+		<!--Jolo-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_JOLO_NAME" Language="en_US">
+			<Text>Jolo</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_JOLO_DESCRIPTION" Language="en_US">
+			<Text>Jolo city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_JOLO_ADJECTIVE" Language="en_US">
+			<Text>Jolo</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_JOLO" Language="en_US">
+			<Text>Jolo</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_JOLO_NAME" Language="en_US">
+			<Text>Jolo Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_JOLO_DESCRIPTION" Language="en_US">
+			<Text>Receive the [ICON_CVS_RESOURCE_ABACA] Abacá and [ICON_CVS_RESOURCE_MANGOSTEEN] Mangosteen Luxury resources. These cannot be earned any other way in the game, and provide 6 [ICON_Amenities] Amenities each.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_JOLO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Jolo, officially the Municipality of Jolo, is a 1st class municipality and capital of the province of Sulu, Philippines. According to the 2015 census, it has a population of 125,564 people. Part of its population is of Chinese descent, mainly from Singapore. Of the population, 90% are Muslim, the remaining 10% are Christian. Jolo was the center of the government of the Sulu Sultanate.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_JOLO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In the 14th century, Arab traders landed on the island to introduce and convert its inhabitants to Islam. The native inhabitants on the island are the Tausūg people. The Tausugs are part of the larger Moro group which dominates the Sulu Archipelago. The Moro had an independent state known as the Sultanate of Sulu, which was politically and economically centered on Jolo, the residence for Sulu Sultanates. The Seat of the Royal Sultanate of Sulu was in Astana Putih, which is Tausug for ‘White Palace’ in Umbul Duwa in the municipality of Indanan on Jolo Island, later on, the capital was moved in Maimbung during the 1800's.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_JOLO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In 1521, the explorer Ferdinand Magellan claimed the Philippines for Spain. The Spanish failed to conquer and convert the Muslim areas in the south. After consolidating the northern part of the Philippine islands, they failed to take over the well-organized Muslim Sultanates. Jolo was the regional entrepot and developing city years before the Philippines was even a country. The Sulu economy formed its base around commerce and through the network of nearby trading partners. The Sultanate benefited from importing rice from northern Philippines, as the Sulu region had a chronic rice shortage. The Sultanate was unable to bring agriculture to its full potential because the area was prone to erratic rainfall and drought. In 1876, the Spanish attempted to gain control of the Muslims by burning Jolo and were successful. In March 1877, The Sulu Protocol was signed between Spain, England and Germany which recognized Spain’s rights over Sulu and eased European tensions in the area.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_JOLO_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Trade suffered heavily in 1892 when three steamers used for trade were lost in a series of storms on the trade route between Singapore and Jolo. The traders in Singapore lost so heavily as a result that they refused to accept trade unless it was paid for in cash. Along with the fear of increased taxation, many Chinese left to other parts of the Archipelago as Jolo lost its role as the regional entrepot. The Tausug had already abandoned trading when the Chinese arrived. Thus, Jolo never fully gained its previous trading status. However, the Chinese continued to dominate trade throughout the Archipelago and Mindanao.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_JOLO_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In 1899 following the Treaty of Paris of 1898, sovereignty over the Philippines was transferred from Spain to the United States who attempted to forcibly incorporate the Muslim areas into the Philippine state. The American colonizers eventually took over the southern regions with force. The Sultanate of Sulu was abolished in 1936.</Text>
+		</Replace>
+
+		<!--Kadesh-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_KADESH_NAME" Language="en_US">
+			<Text>Kadesh</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KADESH_DESCRIPTION" Language="en_US">
+			<Text>Kadesh city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KADESH_ADJECTIVE" Language="en_US">
+			<Text>Kadeshan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KADESH" Language="en_US">
+			<Text>Kadesh</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KADESH_NAME" Language="en_US">
+			<Text>Kadesh Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KADESH_DESCRIPTION" Language="en_US">
+			<Text>Your heavy cavalry units gain the ability to push defending units back.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kadesh was an ancient city of the Levant, located on or near the headwaters or a ford of the Orontes River. The city first entered historical records when it was mentioned in the archive of Mari in the 18th century BC as the headquarter of king Ishi-Addu of Qatna who took up residence there to oversee the quelling of a rebellion in the south of the city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Kadesh was coming under the influence of the growing Hittite Empire between 1500 and 1285 BC. It was the target of military campaigns by most of the pharaohs of the Eighteenth Dynasty of Egypt. Between 1504 and 1492 BC Thutmosis I campaigned north into Syria against the Mitanni, a vassal of the Hittites and, along with Aram, an ally of Kadesh. In the time of Hatshepsut there were no campaigns against Kadesh as she was focused on developing trade across the Red Sea and southward.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Kadesh is first noted as one of two Canaanite cities (the other being Megiddo) that led a coalition of city-states opposing the conquest of the Levant by Thutmose III. In mounting this opposition, the king of Kadesh was probably guided by the ruler of Mittani, Egypt's primary foreign rival in control of the Levant. Defeat in the subsequent Battle of Megiddo ultimately led to the extension of Egyptian hegemony over the city, as well as the rest of southern Syria.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The city is best known as the location of one of the best documented battles of the ancient world, the Battle of Kadesh, staged between the superpowers of the 13th century BC: the Egyptian and Hittite Empires. An Egyptian vassal for approximately 150 years, Kadesh eventually defected to Hittite suzerainty, thereby placing the city on the contested frontier between the two rival empires.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In response to this Hittite ascendancy and expansion southwards, the Egyptian pharaoh Ramesses II prepared an aggressive military response and captured the coastal state of Amurru.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>In 1274 BC, the fifth year of Ramesses' reign, he led a large force of chariots and infantry 1,000 miles (1,600 km) to retake the walled city. In the Battle of Kadesh, the two forces clashed, in what is widely regarded as the largest chariot versus chariot battle (5,000–6,000 between both sides) in history, on the plain south of the city and west of the Orontes River.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The next year, the Hittites moved south to recover Amurru, while the Egyptians moved north to continue their expansion into Syria. The inhabitants of the city of Kadesh had cut a channel from the river to a stream south of town, which had turned the town into a virtual island.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>The following battle, fought at Kadesh, saw the Egyptians turning a near defeat into victory, routing the enemy forces. After Hittite spies convinced the Egyptians that the Hittites were further away than they were, the Hittites surprised the Egyptians in their own camp. The Egyptian army was only saved by the arrival of a supporting force from coastal Amurru. Ramesses II was able to recover the initiative, and the two armies withdrew in stalemate, both claiming victory.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_9" Language="en_US">
+			<Text>The subsequent impasse between Egypt and Hatti ultimately led to what is now recognised as one of the earliest surviving international peace treaties, concluded several decades later between Ramesses II and his Hittite counterpart, Hattusili III.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KADESH_CHAPTER_HISTORY_PARA_10" Language="en_US">
+			<Text>Kadesh vanished from history after it was destroyed by the invading Sea Peoples in around 1178 BC.</Text>
+		</Replace>
+
+		<!--Kataragama-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_KATARAGAMA_NAME" Language="en_US">
+			<Text>Kataragama</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KATARAGAMA_DESCRIPTION" Language="en_US">
+			<Text>Kataragama city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KATARAGAMA_ADJECTIVE" Language="en_US">
+			<Text>Kataragaman</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KATARAGAMA" Language="en_US">
+			<Text>Kataragama</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KATARAGAMA_NAME" Language="en_US">
+			<Text>Kataragama Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KATARAGAMA_DESCRIPTION" Language="en_US">
+			<Text>Gain +1 Influence point per turn toward city-state [ICON_Envoy] Envoys from cities with a Belief building.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kataragama is a pilgrimage town sacred to Buddhist, Hindu and indigenous Vedda people of Sri Lanka. People from South India also go there to worship.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Kataragama functioned as the capital of number of kings of the Ruhuna kingdom (founded in 200 BC). It provided refuge to many kings from the north when the north was invaded by South Indian kingdoms. It is believed that the area was abandoned around the 13th century.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Based on archeological evidence found, it is believed that the Kiri Vehera Stupa was either renovated to build during the first century BC. There are number of others inscriptions and ruins. By the 16th century the Kataragamadevio shrine at Kataragama had become synonymous with Skanda-Kumara who was a guardian deity of Sinhala Buddhism. The town was popular as a place of pilgrimage for Hindus from India and Sri Lanka by the 15th century. The popularity of the deity at the Kataragama temple was recorded by the Pali chronicles of Thailand such as Jinkalmali in the 16th century. There are Buddhist and Hindu legends that attribute supernatural events to the locality.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Kataragama is a multi-religious sacred town as it contains an Islamic Mosque within its temple complex as well.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In spite of the differences of caste and creed, many Sri Lankans show great reverence to God Kataragama. They honor him as a very powerful deity and beg divine help to overcome their personal problems or for success in business enterprises, etc., with the fervent hope that their requests will be granted. They believe that God Kataragama exists and is vested with extraordinary power to assist those who appeal to him with faith and devotion in times of distress or calamity.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KATARAGAMA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>Although Kataragama was a small village in medieval times, today it is a fast-developing township surrounded by jungle in the southeastern region of Sri Lanka.</Text>
+		</Replace>
+
+		<!--Kelaniya-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_KELANIYA_NAME" Language="en_US">
+			<Text>Kelaniya</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KELANIYA_DESCRIPTION" Language="en_US">
+			<Text>Kelaniya city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KELANIYA_ADJECTIVE" Language="en_US">
+			<Text>Kelaniyan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KELANIYA" Language="en_US">
+			<Text>Kelaniya</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KELANIYA_NAME" Language="en_US">
+			<Text>Kelaniya Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KELANIYA_DESCRIPTION" Language="en_US">
+			<Text>Your Great Works of Art ([ICON_GreatWork_Sculpture] Sculpture, [ICON_GreatWork_Portrait] Portrait, [ICON_GreatWork_Landscape] Landscape, and [ICON_GreatWork_Religious] Religious) grant +3 [ICON_Faith] Faith and +3 [ICON_Gold] Gold in cities with a Holy Site district.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KELANIYA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kelaniya is a suburb of Colombo city in Western Province, Sri Lanka. It is known for the Buddhist temple built on the banks of the Kelani River, which runs through the suburb. It is also a religious center for veneration of the figures, Vibhishana and Guanyin. It is first mentioned in the Ramayana and the Buddhist chronicle, which states that the Gautama Buddha (5th century BC) visited the place, after which the dagaba of the temple was built.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KELANIYA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The suburb is also of historical importance as the capital of a provincial king Kelani Tissa (1st century BC) whose daughter, Viharamahadevi was the mother of king Dutugemunu the great, regarded as the most illustrious of the 186 or so kings of Sri Lanka between the 5th century BC and 1815.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KELANIYA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Sri Lankan Buddhists believe that the Buddha visited Kelaniya in order to quell a quarrel between two Nāga leaders of two warring factions: Chulodara (literally "the small-bellied one") and Mahodara (literally "the big-bellied one"). They were quarrelling over a jewel-encrusted throne. After the Buddha showed them the futility of their quarrel they converted to Buddhism and together offered the throne to the Buddha. It is believed that the Dagaba (Sthupa or Buddhist temple) seen today was built with the throne as a relic inside.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KELANIYA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Kelaniya Raja Maha Vihara has become famous because of the beautiful paintings and sculpture by Solias Mendis depicting various events in the history of Sri Lanka. Thousands of Buddhists come to see the Buddhist pageant of Kelaniya, popularly referred to as Duruthu Maha Perahera of Kelaniya in the month of January every year.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KELANIYA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>According to Ramayana, After King Ravana’s death, Vibeeshana was coroneted as King of Lanka by Lakshmana at Kelaniya. There are murals enshrined outside the Buddhist temple depicting the crowning of Vibeeshana. The Kelani River is mentioned in the Valmiki Ramayana and Vibeeshana palace was said to be on the banks of this river. The reason Lakshmana crowned Vibeeshana, was because Rama had to return to India as he had to continue his self-exile of 14 years to honour the commitment to his father, King Dasarath of Ayodhya.</Text>
+		</Replace>
+
+		<!--Kuhikugu-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_KUHIKUGU_NAME" Language="en_US">
+			<Text>Kuhikugu</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KUHIKUGU_DESCRIPTION" Language="en_US">
+			<Text>Kuhikugu city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_KUHIKUGU_ADJECTIVE" Language="en_US">
+			<Text>Kuhikugan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_KUHIKUGU" Language="en_US">
+			<Text>Kuhikugu</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KUHIKUGU_NAME" Language="en_US">
+			<Text>Kuhikugu Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_KUHIKUGU_DESCRIPTION" Language="en_US">
+			<Text>Your Farms gain +1 [ICON_Food] Food and +2 [ICON_Gold] Gold if built adjacent to Rainforest.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KUHIKUGU_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Kuhikugu is an archaeological complex located in Brazil, at the headwaters of the Xingu River, in the Amazon Rainforest. The complex includes twenty towns and villages, spread out over an area of around 7,700 square miles (20,000 km2), where close to 50,000 people may have once lived. Kuhikugu was likely inhabited from a period of time around 1,500 years ago to a time as recently as 400 years ago, when the people living there were likely killed by diseases brought over by Europeans.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KUHIKUGU_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Large defensive ditches and palisades were built around some of the communities at Kuhikugu. Large plazas also exist at some of the towns throughout the region, some around 490 feet (150 m) across. Many of the communities at Kuhikugu were linked, with roads which bridged some rivers along their paths, and with canoe canals running alongside some of the roads. Fields of mandioca (cassava) may have existed around the communities at Kuhikugu, suggesting that the people there were farmers. Dams and ponds which appear to have been constructed in the area also suggest that the inhabitants of Kuhikugu may have been involved with fish farming, which is still practiced by some of their modern day Kuikuro descendants.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_KUHIKUGU_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>There is a possibility that legends regarding Kuhikugu may have influenced the British explorer Lieutenant Colonel Percy Fawcett to go on his ill-fated last expedition in 1925, looking through the Amazon rainforest for what he called "City Z."</Text>
+		</Replace>
+
+		<!--Mai-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAI_NAME" Language="en_US">
+			<Text>Ma-i</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAI_DESCRIPTION" Language="en_US">
+			<Text>Ma-i city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAI_ADJECTIVE" Language="en_US">
+			<Text>Ma-i</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAI" Language="en_US">
+			<Text>Ma-i</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MAI_NAME" Language="en_US">
+			<Text>Ma-i Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MAI_DESCRIPTION" Language="en_US">
+			<Text>Your cities produce +1 [ICON_Faith] Faith and [ICON_Gold] Gold for each district present.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAI_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ma-i or Maidh was an ancient sovereign state located in what is now the Philippines, notable in Philippine historiography for being the first place in the Philippines ever to be mentioned in any foreign account. Its existence was first documented in 971 AD, in the Song Dynasty documents known as the History of Song, and it was also mentioned in the 10th century records of the Sultanate of Brunei. Based on these and other mentions until the early 14th century, contemporary scholars believe Ma-i was located either in Bay, Laguna or on the island of Mindoro.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAI_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Because all the documents describing Ma-I were primarily concerned with trade, this is the most documented aspect of Ma-I culture. Both the Song Dynasty records (specifically the Zhu Fan Zhi), and Yuan Dynasty records (specifically the Daoyi Zhilüe) describe the local products as "kapok cotton, yellow bees-wax, tortoise shell, medicinal betel nuts and cloth of various patterns." The Zhu Fan Zhi notes that in exchange, the locals accepted products such as "porcelain, trade gold, iron pots, lead, colored glass beads, and iron needles." The Daoyi Zhilüe later lists "caldrons, pieces of iron, red cloth or taffetas of various color stripes, ivory, and "tint or the like"" as accepted items of exchange.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAI_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>No mentions of the country of Ma-i have been found after 1349 (or 1339 depending on the source). However, historians generally believe that Ma-i continued to exist under a different name. Early theories for the location of Ma-i include locations in Central Luzon, or the Southern Tagalog area. Many 20th Century Scholars came to accept the idea that Ma-i was located on the island of Mindoro, based on the name of Mait, a place on the island.[28] However, this has been questioned on the basis of physical evidence and an analysis of Chinese orthography, and Bay (pronounced "Ba-i" or "Ba-e" by locals) has once again been suggested as a likely location of Ma-i.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAI_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Whatever happened to Ma-i between the last time it was mentioned by documents at the end of the Tang Dynasty in the 1300s and the beginning of Philippines Spanish in the 1570s, both Mindoro and Bay eventually became part of the Philippine Islands under the dominion of Spain.</Text>
+		</Replace>
+
+		<!--Maingmaw-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAINGMAW_NAME" Language="en_US">
+			<Text>Maingmaw</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAINGMAW_DESCRIPTION" Language="en_US">
+			<Text>Maingmaw city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MAINGMAW_ADJECTIVE" Language="en_US">
+			<Text>Maingmalese</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MAINGMAW" Language="en_US">
+			<Text>Maingmaw</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MAINGMAW_NAME" Language="en_US">
+			<Text>Maingmaw Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MAINGMAW_DESCRIPTION" Language="en_US">
+			<Text>Rivers provide +1 [ICON_Food] Food and +1 [ICON_Gold] Gold to adjacent flat land within your borders.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAINGMAW_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Maingmaw was founded some time in the first millenium BC, and was one of the largest ancient cities in the region. It was protected by three walls - an outer ring, a square inner wall, and then another circular keep. A canal ran through the city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MAINGMAW_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In the 19th century, the Nandawya Paya temple was built in the centre of the ancient city site, possibly on top of an old temple ruin.</Text>
+		</Replace>
+
+		<!--Megiddo-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_MEGIDDO_NAME" Language="en_US">
+			<Text>Megiddo</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MEGIDDO_DESCRIPTION" Language="en_US">
+			<Text>Megiddo city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MEGIDDO_ADJECTIVE" Language="en_US">
+			<Text>Megiddan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MEGIDDO" Language="en_US">
+			<Text>Megiddo</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MEGIDDO_NAME" Language="en_US">
+			<Text>Megiddo Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MEGIDDO_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts add +1 [ICON_Production] Production and +2 [ICON_Gold] Gold to international [ICON_TradeRoute] Trade Routes from that city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MEGIDDO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Megiddo is perhaps best known for its Greek name, Armageddon, which has come to mean "the end of the world" due to prophecies regarding an apocalyptic final battle in the Biblical book of Revelation. In ancient times the city was the site of many battles due to its location, including the Battle of Megiddo in 1457 BC between Egyptian and Canaanite armies and is the first recorded use of the composite bow. Another famous battle is the Battle of Megiddo in 609 BC between Egypt and the Kingdom of Judah, which resulted in the Judean king's death.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MEGIDDO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Megiddo has not been inhabited in over 2,500 years, but before that was continuously inhabited from about 7000 BC to 586 BC, resulting in (at present count) 26 layers of ruins. Situated at a strategic mountain pass and overlooking a fertile valley, Megiddo straddled valuable trade routes and grew to a large size. Its ruins contain impressive structures, including a massive temple dated to before 3100 BC and large palace complexes. Megiddo also was home to impressive stables, capable of housing almost 500 horses at a time.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MEGIDDO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Over time the city's importance waned, and it was abandoned in 586 BC. Its ruins have been relatively undisturbed since then. Megiddo's remains theologically significant in Christianity, and the remains of a church dating from the 3rd century has been found nearby.</Text>
+		</Replace>
+
+		<!--Mombasa-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_MOMBASA_NAME" Language="en_US">
+			<Text>Mombasa</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MOMBASA_DESCRIPTION" Language="en_US">
+			<Text>Mombasa city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MOMBASA_ADJECTIVE" Language="en_US">
+			<Text>Mombasan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MOMBASA" Language="en_US">
+			<Text>Mombasa</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MOMBASA_NAME" Language="en_US">
+			<Text>Mombasa Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MOMBASA_DESCRIPTION" Language="en_US">
+			<Text>Coastal and Lake tiles provide Standard adjacency bonuses to land Specialty Districts.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MOMBASA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mombasa is the second largest city of Kenya. It is a regional cultural and economic hub with a large port and international airport. Additionally, its location on the east coast of Kenya has made it a strategic trading port throughout its history. The exact age of Mombasa is unknown but it has a long history.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MOMBASA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Mombasa’s founding is associated with the legendary figures Mwana Mkisi and Shehe Mvita. Most early information on the city come from Portuguese chroniclers writing in the 16th century. However, the Moroccan scholar and traveler Ibn Battuta also visited the area and wrote of it, but he only stayed for a single night. He noted their mosques were wooden and expertly built.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MOMBASA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Mombasa was once an important center for the trade of spices, gold, and ivory, with trading links as far as India and China. Throughout the early modern period, Mombasa was again a key node in extensive transoceanic trading networks; key exports were ivory, millet, sesamum, and coconuts. Today, Mombasa is a key city within Kenya and has been featured in popular movies and videogames.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CVS_MOMBASA_ADJACENCY_SCIENCE" Language="en_US">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_MOMBASA_ADJACENCY_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_MOMBASA_ADJACENCY_FAITH" Language="en_US">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_MOMBASA_ADJACENCY_PRODUCTION" Language="en_US">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_MOMBASA_ADJACENCY_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Coast {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+
+		<!--Monaco-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_MONACO_NAME" Language="en_US">
+			<Text>Monaco</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MONACO_DESCRIPTION" Language="en_US">
+			<Text>Monaco city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_MONACO_ADJECTIVE" Language="en_US">
+			<Text>Monacan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_MONACO" Language="en_US">
+			<Text>Monaco</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MONACO_NAME" Language="en_US">
+			<Text>Monaco Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_MONACO_DESCRIPTION" Language="en_US">
+			<Text>Buildings within Entertainment Complex or Water Park districts receive +2 [ICON_Tourism] Tourism and enough [ICON_Gold] Gold to pay for their maintenance.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MONACO_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Monaco is a city-state on the French Riviera. It is the second-smallest and most densely-populated sovereign state in the world. With luxurious tourist destinations, no income tax, and low business taxes, it is known as a playground for the rich, but Monaco has a long history.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MONACO_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Monaco’s name comes from a nearby Phocaean Greek colony from 6th century BCE called Monoikos. According to ancient myth, Hercules passed through the Monaco area and turned away the previous gods. Monaco eventually came under control of the Holy Roman Empire, the Republic of Genoa, France, and the kingdom of Sardinia, before achieving independence.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_MONACO_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Prince Albert II is the head of state and reigns as a constitutional monarch, albeit with enormous political power. While Monaco is not a member of the European Union, in recent times, there have been steps towards integration. For instance, it participates in certain EU policies and its official currency is the Euro.</Text>
+		</Replace>
+
+		<!--Nalanda-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_NALANDA_NAME" Language="en_US">
+			<Text>Nalanda</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_NALANDA_DESCRIPTION" Language="en_US">
+			<Text>Nalanda city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_NALANDA_ADJECTIVE" Language="en_US">
+			<Text>Nalandan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_NALANDA" Language="en_US">
+			<Text>Nalanda</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_NALANDA_NAME" Language="en_US">
+			<Text>Nalanda Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_NALANDA_DESCRIPTION" Language="en_US">
+			<Text>Your cities with Campuses gain +20% [ICON_Faith] Faith when Happy, and your cities with Holy Sites gain +10% [ICON_Science] Science when Happy. These bonuses are doubled in Ecstatic cities.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Nalanda was an ancient and acclaimed Buddhist monastery. It is located about 95 kilometers southeast of Patna. From the fifth century CE to 1200 CE, Nalanda was a renowned international center of learning. Much of the knowledge of Nalanda comes from writings of pilgrim monks such as Xuanzang and Yijing.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Nalanda featured highly formalized methods of Vedic learning. It flourished under the patronage of the Gupta Empire and later under Harsha, emperor of Kannauj. The liberal cultural traditions inherited from the Gupta age resulted in a period of growth and prosperity until the ninth century. The subsequent centuries were a time of gradual decline, a period during which the tantric developments of Buddhism became most pronounced in eastern India under the Pala Empire.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_NALANDA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>At its peak, the school attracted scholars and students from near and far with some travelling all the way from Tibet, China, Korea, and Central Asia. Archaeological evidence also notes contact with the Shailendra dynasty of Indonesia, one of whose kings built a monastery in the complex. Nalanda was ransacked and destroyed by an army of the Mamluk Dynasty of the Delhi Sultanate under Bakhtiyar Khilji in c. 1200 CE. While some sources note that the Mahavihara continued to function in a makeshift fashion for a while longer, it was eventually abandoned and forgotten until the 19th century when the site was surveyed and preliminary excavations were conducted by the Archaeological Survey of India.</Text>
+		</Replace>
+
+		<!--Palmyra-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_PALMYRA_NAME" Language="en_US">
+			<Text>Palmyra</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PALMYRA_DESCRIPTION" Language="en_US">
+			<Text>Palmyra city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PALMYRA_ADJECTIVE" Language="en_US">
+			<Text>Palmyran</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PALMYRA" Language="en_US">
+			<Text>Palmyra</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PALMYRA_NAME" Language="en_US">
+			<Text>Palmyra Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PALMYRA_DESCRIPTION" Language="en_US">
+			<Text>Your cities gain +1 [ICON_Faith] Faith and +2 [ICON_Gold] Gold for each Holy Site building per turn from each foreign [ICON_TradeRoute] Trade Route passing through.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PALMYRA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The ancient city of Palmyra grew wealthy from trade caravans. It changed hands numerous times before coming under control of Rome in the first century CE. Palmyrenes were renowned merchants who established colonies along the Silk Road and operated throughout the Roman Empire. The city’s enormous wealth allowed for myriad monumental projects, like tower tombs, the Great Colonnade, and the Temple of Bel.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PALMYRA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>As a city at the crossroads of the Near East and the Mediterranean, Palmyra was extraordinarily diverse. The people spoke Palmyrene (an Aramaic dilacet), as well as Greek for commercial and diplomatic purposes. Palmyran culture was strongly influenced by Greco-Roman culture. Citizens worshipped local Semitic deities, as well as Mesoptamian and Arab gods. Palmyra also had its own unique deities.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PALMYRA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>By the third century CE, Palmyra was a prosperous and powerful city, even defeating the Sassanids under Shapur I. Regent Queen Zenobia rebelled against Rome and established the Palmyrene Empire, but in 278, the Roman Emperor Aurelian destroyed the city. It was restored, at a reduced size, by Diocletian.</Text>
+		</Replace>
+
+		<!--Phasis-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_PHASIS_NAME" Language="en_US">
+			<Text>Phasis</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PHASIS_DESCRIPTION" Language="en_US">
+			<Text>Phasis city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PHASIS_ADJECTIVE" Language="en_US">
+			<Text>Phasian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PHASIS" Language="en_US">
+			<Text>Phasis</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PHASIS_NAME" Language="en_US">
+			<Text>Phasis Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PHASIS_DESCRIPTION" Language="en_US">
+			<Text>Your forested tiles gain +1 [ICON_Production] if adjacent to at least one more forested tile, and your Lumber Mills gain +1 [ICON_Production] Production if built on the coast or next to a river.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PHASIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Phasis, which took its name from the Phasis River, was the easternmost town on the cost of the Euxine. It was probably founded by the Milesians as a commercial post, situated in a plain between the river, the sea, and a lake. The country around it was very fertile and rich in timber. Therefore, the Phasians were able to carry on considerable export commerce. It was a vital component of the presumed trade route from India to the Black Sea, attested by Strabo and Pliny.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PHASIS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>During the Third Mithridatic War, Phasis came under Roman control. It was where the Roman commander-in-chief Pompey, having crossed into Colchis from Iberia, met the legate Servilius, the admiral of his Euxine fleet in 65 BC. During the Lazic War between the Sassanians and the Eastern Roman empire, Phasis was besieged but not taken by the Sassanians. After the introduction of Christianity, Phasis was the see of a Greek diocese.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PHASIS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The exact location of Phasis has not been identified. Some historians believe the lake that bound Phasis on one side has now engulfed the settlement, or part of it. The name of the town and river Phasis still survives in the languages of Europe in the wood pheasants (phasianae aves), these birds being said to have been introduced into Europe from those regions as early as the time of the Argonauts.</Text>
+		</Replace>
+
+		<!--Port Royal-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_PORT_ROYAL_NAME" Language="en_US">
+			<Text>Port Royal</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PORT_ROYAL_DESCRIPTION" Language="en_US">
+			<Text>Port Royal city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_PORT_ROYAL_ADJECTIVE" Language="en_US">
+			<Text>Boucaniers</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_PORT_ROYAL" Language="en_US">
+			<Text>Port Royal</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PORT_ROYAL_NAME" Language="en_US">
+			<Text>Port Royal Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_PORT_ROYAL_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes grant +1 [ICON_Production] Production in the sending city and +1 [ICON_Gold] Gold in the receiving city per Plantation in the receiving city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PORT_ROYAL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Port Royal, once the largest city in the Caribbean, was founded by the Spanish in 1518 in southeastern Jamaica. It was the center of shipping and commerce in the Caribbean Sea by the second half of the 17th century. In 1692, an earthquake and accompanying tsunami leveled the city. It has been damaged many times by severe hurricanes.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PORT_ROYAL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Port Royal was home to privateers, encouraged to attack Spain’s vessels when smaller European powers dared not directly provoke Spain. The city was notorious for gaudy displays of wealth and loose morals, and English and Dutch-sponsored privateers spent their treasure and leisure time in Port Royal. In the later part of the 16th century, the English and Dutch governments ceased providing letters of marque to privateers against Spain’s treasure fleets and possessions; consequently many crews turned pirate. Pirates around the world congregated at Port Royal, using the city as their main base.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_PORT_ROYAL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>After the disaster in 1692, Port Royal’s commercial role was superseded by nearby Kingston. Some attempts were made to rebuild the city, with mixed results. The rebuilt city has been destroyed many times over, by fires, hurricanes, and earthquakes. Today, Port Royal is a shadow of its former self, with no commercial or political importance, and a population of less than 2,000.</Text>
+		</Replace>
+
+		<!--Qatna-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_QATNA_NAME" Language="en_US">
+			<Text>Qatna</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_QATNA_DESCRIPTION" Language="en_US">
+			<Text>Qatna city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_QATNA_ADJECTIVE" Language="en_US">
+			<Text>Qatnan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_QATNA" Language="en_US">
+			<Text>Qatna</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_QATNA_NAME" Language="en_US">
+			<Text>Qatna Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_QATNA_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_Capital] Capital and city with the Government Plaza generate 0.5 Loyalty Pressure per [ICON_Citizen] Citizen. These bonuses do not stack.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Qatna was an important center throughout most of the second millennium BC and in the first half of the first millennium BC. It contained one of the largest royal palaces of Bronze Age Syria and an intact royal tomb that provided a great amount of data on the funerary habits of that period.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The last two centuries of the third millennium BC saw widespread disruption of urban settlements in Syria and the abandonment of many cities; however, Qatna seems to be an exception, as it continued to grow. During the Early Bronze Age, Qatna reached a size of 25 ha (62 acres); it included a dense residential quarter and facilities for the storage and processing of grains, especially a large multi-roomed granary similar to the one in Tell Beydar. The city may have been one of the urban centers of the Ib'al federation, perhaps the center of a king or prince.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The Kingdom of Qatna was established around 2000 BC.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Early in their history, Qatna and Yamhad had hostile relations; Amut-piʾel I, in alliance with Yahdun-Lim and Ḫammu-Nabiḫ (probably king of Tuttul), attacked the Yamhadite city of Tuba, which was a personal possession of Aleppo's royal family, and took a large booty. Later, Yahdun-Lim embarked on an expedition to the Mediterranean Sea that was used for ideological purposes, as it was meant to echo Gilgamesh's deeds; the journey likely had undeclared political motives as well, when seen in the context of the alliance with Qatna. The Mariote–Qatanean alliance, which was probably cemented by dynastic marriage, must have provoked Yamhad, which supported rebellions in Mari to preoccupy Yahdun-Lim with his own problems. Despite the tension and battles, a full-scale war with Yamhad was avoided.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Qatna was at its apex during the reign of Išhi-Addu. Mari was conquered by Shamshi-Adad I of Assyria, who appointed his son Yasmah-Adad as its king. Išhi-Addu was allied with Shamshi-Adad and is attested corresponding with Mari for a period of six years between c. 1783 and 1778 BC. At its height, the kingdom extended from the upper valley of the Orontes to Qadeš in the west, while Palmyra was Qatna's easternmost city. It was bordered by Yamhad in the north, while the south was dominated by Hazor, a Qatanean vassal. The many kingdoms of Amurru, which controlled the central Levantine coast between Byblos and Ugarit, bordered Qatna from the west and were counted among Išhi-Addu's vassals. Also under the rule of Qatna were various cities in the Beqaa Valley and the cities in the region of Apum, in the modern Damascus Oasis.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The political and military balance in the region changed dramatically during the reign of Amut-piʾel II; Shamshi-Adad I had died by about 1775 BC, and his empire disintegrated, while Yasmah-Adad was removed from his throne and replaced with Zimri-Lim. Yarim-Lim I gained the upper hand and turned his kingdom into the supreme power in the Levant; Qatna was forced to respect the borders and interests of Yamhad.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The hegemony of Yamhad affected Qatna's economy; the trade route connecting Mesopotamia and Mari to Qatna through Palmyra lost its importance, while the trade routes from the Mediterranean to Mesopotamia came under the full control of Aleppo, contributing to Qatna's loss of wealth. Following the destruction of Mari by Hammurabi of Babylon around 1761 BC, information about Qatna becomes scarce; in the late 17th century BC, Yamhad invaded and defeated Qatna during the reign of Yarim-Lim III.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_QATNA_CHAPTER_HISTORY_PARA_8" Language="en_US">
+			<Text>Following the 13th century BC, no archaeological evidence exists to prove the city was occupied; the toponym Qatna stopped appearing and the next occupation level dates to the late 10th century BC, suggesting it was uninhabited for three centuries.</Text>
+		</Replace>
+
+		<!--Rhesaina-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_RHESAINA_NAME" Language="en_US">
+			<Text>Rhesaina</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_RHESAINA_DESCRIPTION" Language="en_US">
+			<Text>Rhesaina city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_RHESAINA_ADJECTIVE" Language="en_US">
+			<Text>Rhesainan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_RHESAINA" Language="en_US">
+			<Text>Rhesaina</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_RHESAINA_NAME" Language="en_US">
+			<Text>Rhesaina Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_RHESAINA_DESCRIPTION" Language="en_US">
+			<Text>1 [ICON_Amenities] Amenity in cities with a Campus district. This increases to 2 [ICON_Amenities] Amenities if the Campus adjacency bonus is 4 or more.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_RHESAINA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>In classical times, Rhesaina was an important Mesopotamian town, near the sources of the Chaboras River. It was located on the way from Carrhae to Nicephorium. Numerous variations of the name are attested. The first mention of Rhesaina is during the reign of the Assyrian king Adad-nirari II. The site has been occupied since at least the Neolithic age, and has been under the control of many empires, such as the Sassanians, the Romans, and the Byzantines.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_RHESAINA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Rhesaina was the location of one of the three great Sassanian centers of learning, along with Ctesiphon and Gondeshapur. In contrast to the school at Gondeshapur, which was largely devoted to medicine, the school at Rhesain also focused on philosophy, particularly Aristotelian. Activity in the academy concerned itself largely with translations of the works of Aristotle and other Greek works into the vernacular, in addition to commentaries.  Sergius of Rhesaina, a physician and priest, translated many medical treatises from Greek to Syriac, which were then translated into Arabic centuries later.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_RHESAINA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The works of scholars at Rhesaina in Sassanian times undoubtedly played a role in the later Islamic golden age. Today, Rhesaina is a divided city. Its northern neighborhoods were ceded to Turkey in the 1921 Treaty of Ankara, while the rest is in Syria.</Text>
+		</Replace>
+
+		<!--Sandakan-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_SANDAKAN_NAME" Language="en_US">
+			<Text>Sandakan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SANDAKAN_DESCRIPTION" Language="en_US">
+			<Text>Sandakan city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SANDAKAN_ADJECTIVE" Language="en_US">
+			<Text>Sandakan</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SANDAKAN" Language="en_US">
+			<Text>Sandakan</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SANDAKAN_NAME" Language="en_US">
+			<Text>Sandakan Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SANDAKAN_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes provide +50% [ICON_Tourism] Tourism, and Traders can be purchased at a 50% discount.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SANDAKAN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sandakan formerly known at various times as Elopura, is the capital of the Sandakan District in Sabah, Malaysia. It is the second largest town in Sabah after Kota Kinabalu. It is located on the east coast of the state in the administrative centre of Sandakan Division and was the former capital of British North Borneo. The town has an estimated population of 157,330 while the surrounding municipal area has a total population of 396,290.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SANDAKAN_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Before the founding of Sandakan, Sulu Archipelago was the source of dispute between Spain and the Sultanate of Sulu for economic dominance in the region. By 1864, Spain had blockaded the Sultanate possessions in the Sulu Archipelago. The Sultanate of Sulu awarded a German consular service ex-member a piece of land in the Sandakan Bay to seek protection from Germany. In 1878, the Sultanate sold north-eastern Borneo to an Austro-Hungarian consul who later left the territory to a British colonial merchant. The German presence over the area raised concern among the British. As a result, a protocol was signed between the British, German and the Spanish to recognise Spanish sovereignty over the Sulu Archipelago, in return for the Spanish not intervening in British affairs in northern Borneo.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SANDAKAN_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Sandakan began to prosper when the British North Borneo Company (BNBC) started to build a new settlement in 1879, developing it into an active commercial and trading centre as well as making it the main administrative centre for North Borneo. The British also encouraged the migration of the Chinese from British Hong Kong to develop the economy of Sandakan. However, the prosperity halted when the Japanese occupied the area. As the war continued and Allied bombing started in 1944, the town was totally destroyed. Unable to fund the costs of the reconstruction, the administrative powers of North Borneo were handed over to the Crown Colony government. Subsequently, the administrative capital of North Borneo was moved to Jesselton. As part of the 1948–1955 Colonial Office Reconstruction and Development Plan, the crown colony government began to develop the fishing industry in Sandakan.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SANDAKAN_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Sandakan is one of the main ports for oil, tobacco, coffee, sago, and timber exports. Other economic activities include fishing, ship building, eco-tourism, and manufacturing. Among the tourist attractions in Sandakan are Sandakan Heritage Museum, Sandakan Cultural Festival, Sandakan War Memorial, Sepilok Orang Utan Sanctuary, Turtle Islands National Park, and Gomantong Caves.</Text>
+		</Replace>
+
+		<!--Seuthopolis-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_SEUTHOPOLIS_NAME" Language="en_US">
+			<Text>Seuthopolis</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SEUTHOPOLIS_DESCRIPTION" Language="en_US">
+			<Text>Seuthopolis city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SEUTHOPOLIS_ADJECTIVE" Language="en_US">
+			<Text>Odrysian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SEUTHOPOLIS" Language="en_US">
+			<Text>Seuthopolis</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SEUTHOPOLIS_NAME" Language="en_US">
+			<Text>Seuthopolis Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SEUTHOPOLIS_DESCRIPTION" Language="en_US">
+			<Text>When you eliminate a unit in combat gain [ICON_Gold] Gold equal to 50% of the defeated unit's [ICON_Strength] Combat Strength.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SEUTHOPOLIS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Seuthopolis, capital of the Odrysians, was founded by the Thracian King Seuthes III at the end of the 4th century BCE. It functioned politically as the seat of Seuthes but also as a sanctuary of the Cabeirei – the gods of Samothrace. Both Thracians and Greeks lived here.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SEUTHOPOLIS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The large quantity of goods discovered during the excavation revealed the city was also a center of production and commerce. It was built with a regular orthogonal plan, with two large arteries leading from the gates to the center. The cemetery of Seuthopolis included many brick tholos tombs. The upper-class were interred alongside their possessions and even horses. The less affluent were cremated, with modest grave goods alongside their remains.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SEUTHOPOLIS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Seuthes III built his city on the site of an earlier settlement, and he also followed the Hellenistic fashion of the Diadochi in giving it his own name. Greek influence is prevalent in the urban elements cited and in decoration such as antefixes, stucco, and incrustation, and in the use of the Doric capital.</Text>
+		</Replace>
+
+		<!--Sri Ksetra-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_SRI_KSETRA_NAME" Language="en_US">
+			<Text>Sri Ksetra</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SRI_KSETRA_DESCRIPTION" Language="en_US">
+			<Text>Sri Ksetra city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_SRI_KSETRA_ADJECTIVE" Language="en_US">
+			<Text>Sri Ksetran</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_SRI_KSETRA" Language="en_US">
+			<Text>Sri Ksetra</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SRI_KSETRA_NAME" Language="en_US">
+			<Text>Sri Ksetra Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_SRI_KSETRA_DESCRIPTION" Language="en_US">
+			<Text>Your Holy Sites provide [ICON_Food] Food equal to their [ICON_Faith] Faith adjacency bonus.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SRI_KSETRA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Sri Ksetra was the final capital of the Pyu city-states. Originally founded between the 5th and 7th centuries, Sri Ksetra was home to the Vikrama Dynasty, who are credited with launching the Pyu calendar in AD 638. Later, the Pyu calendar would become the Burmese calendar.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_SRI_KSETRA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Sri Ksetra was a large, circular city. It was more than 13 kilometers in circumference and protected by brick walls 4.5 meters high. Within these walls were many pagodas and monasteries, and the entire northern half of the walled area was devoted to rice fields.</Text>
+		</Replace>
+
+		<!--Taos-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_TAOS_NAME" Language="en_US">
+			<Text>Taos</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TAOS_DESCRIPTION" Language="en_US">
+			<Text>Taos city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TAOS_ADJECTIVE" Language="en_US">
+			<Text>Taosian</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TAOS" Language="en_US">
+			<Text>Taos</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TAOS_NAME" Language="en_US">
+			<Text>Taos Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TAOS_DESCRIPTION" Language="en_US">
+			<Text>Patronage of Great People costs 2% less [ICON_Gold] Gold for each luxury resource you own.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Taos Pueblo (or Pueblo de Taos) is an ancient pueblo belonging to a Tiwa-speaking Native American tribe of Puebloan people. It lies about 1 mile (1.6 km) north of the modern city of Taos, New Mexico, USA. The pueblos are considered to be one of the oldest continuously inhabited communities in the United States. Taos Pueblo is a member of the Eight Northern Pueblos, whose people speak two variants of the Tanoan language. The Taos community is known for being one of the most private, secretive, and conservative pueblos. A reservation of 95,000 acres (38,000 ha) is attached to the pueblo, and about 4,500 people live in this area.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Most archeologists believe that the Taos Indians, along with other Pueblo Indians, settled along the Rio Grande after migrating south from the Four Corners region. The dwellings of that region were inhabited by the Ancestral Puebloans. A long drought in the area in the late 13th century may have caused them to move to the Rio Grande, where the water supply was more dependable. Throughout its early years, Taos Pueblo was a central point of trade between the native populations along the Rio Grande and their Plains Tribes neighbors to the northeast. Taos Pueblo hosted a trade fair each fall after the agricultural harvest.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The first Spanish visitors to Taos Pueblo arrived in 1540; they were members of the Francisco Vásquez de Coronado expedition, which stopped at many of New Mexico’s pueblos in search of the rumored Seven Cities of Gold. Around 1620, Spanish Jesuits oversaw construction of the first Catholic Church in the pueblo, the mission of San Geronimo de Taos. Reports from the period indicate that the native people of Taos resisted the building of the church and imposition of the Catholic religion. Throughout the 1600s, cultural tensions grew between the native populations of the Southwest and the increasing Spanish colonial presence. Taos Pueblo was no exception. By 1660, the native people killed the resident priest and destroyed the church. Several years after it was rebuilt, the Pueblo Revolt of 1680 began; the Taos destroyed the church and killed two resident priests.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>By the turn of the 18th century, San Geronimo de Taos was under construction for a third time. Spanish/Taos relations within the pueblo became amicable for a brief period as both groups found a common enemy in invading Ute and Comanche tribes. Resistance to Catholicism and Spanish culture was still strong. Even so, Spanish religious ideals and agricultural practices subtly worked their way into the Taos community, largely starting during this time of increased cooperation between the two cultural groups.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>The Taos revolt began before the conclusion of the Mexican–American War in 1847. A Mexican Pablo Montoya and Tomasito, a leader at Taos Pueblo, led a force of Mexicans and Taos who did not want to become a part of the United States. They killed Governor Charles Bent and others and marched on Santa Fe. The revolt was suppressed after the rebels took refuge in San Geronimo Mission Church. The American troops bombarded the church, killing or capturing the insurrectionists and destroying the physical structure. Around 1850, a new mission church was constructed near the west gate of the pueblo wall. The ruins of the original church and its 1850s replacement are both still visible inside the pueblo wall today. Father Anton Docher first served as a priest in Taos before his years in Isleta, where he became known as "The Padre of Isleta".</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TAOS_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The Pueblo's 48,000 acres (19,000 ha) of mountain land was taken by President Theodore Roosevelt and designated as the Carson National Forest early in the 20th century. It was finally returned in 1970 by the United States when President Nixon signed Public Law 91-550. An additional 764 acres (309 ha) south of the ridge between Simpson Peak and Old Mike Peak and west of Blue Lake were transferred back to the Pueblo in 1996.</Text>
+		</Replace>
+
+		<!--Teyuna-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_TEYUNA_NAME" Language="en_US">
+			<Text>Teyuna</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TEYUNA_DESCRIPTION" Language="en_US">
+			<Text>Teyuna city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TEYUNA_ADJECTIVE" Language="en_US">
+			<Text></Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TEYUNA" Language="en_US">
+			<Text>Teyuna</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TEYUNA_NAME" Language="en_US">
+			<Text>Teyuna Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TEYUNA_DESCRIPTION" Language="en_US">
+			<Text>Your Commercial Hub and Theater districts gain a Major adjacency bonus from Mountain tiles.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TEYUNA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Teyuna (also known as Buritaca and Ciudad Perdida) was an ancient city in Colombia's Sierra Nevada. It is believed to have been founded about 800 AD, some 650 years earlier than Machu Picchu.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TEYUNA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Its ruins were discovered in 1972, when a group of local treasure looters found a series of stone steps rising up the mountainside and followed them to an abandoned city which they named "Green Hell" or "Wide Set". When gold figurines and ceramic urns from this city began to appear in the local black market, archaeologists headed by the director of the Instituto Colombiano de Antropologia reached the site in 1976 and completed reconstruction between 1976-1982.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TEYUNA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Members of local tribes—the Arhuaco, the Koguis and the Wiwas—have stated that they visited the site regularly before it was widely discovered, but had kept quiet about it. They call the city Teyuna and believe it was the heart of a network of villages inhabited by their forebears, the Tairona. Teyuna was probably the region's political and manufacturing center on the Buritaca River and may have housed 2,000 to 8,000 people. It was apparently abandoned during the Spanish conquest.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TEYUNA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Teyuna consists of a series of 169 terraces carved into the mountainside, a net of tiled roads and several small circular plazas. The entrance can only be accessed by a climb up some 1,200 stone steps through dense jungle.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_CULTURE1" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_CULTURE2" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_CULTURE3" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_CULTURE4" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_CULTURE5" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_GOLD1" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_GOLD2" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_GOLD3" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_GOLD4" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_TEYUNA_MOUNTAINS_GOLD5" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Replace>
+
+		<!--Tissamaharama-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_TISSAMAHARAMA_NAME" Language="en_US">
+			<Text>Tissamaharama</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TISSAMAHARAMA_DESCRIPTION" Language="en_US">
+			<Text>Tissamaharama city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TISSAMAHARAMA_ADJECTIVE" Language="en_US">
+			<Text>Tissamaharaman</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TISSAMAHARAMA" Language="en_US">
+			<Text>Tissamaharama</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TISSAMAHARAMA_NAME" Language="en_US">
+			<Text>Tissamaharama Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TISSAMAHARAMA_DESCRIPTION" Language="en_US">
+			<Text>Grants 2 [ICON_CVS_RESOURCE_SERIC_IRON] Seric Iron resources, which grant +5 [ICON_Strength] Combat Strength to melee and anti-cavalry units.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TISSAMAHARAMA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Tissamaharama is located in the southern Sri Lanka. It used to be the capital of the Sinhalese Kingdom of Ruhuna as early as the 3rd century B.C. Only few buildings from that period can still be seen today. The presence ordinary early Tamils in Tissamaharama was confirmed following archaeological excavations in 2010. The Tissamaharama Tamil Brahmi inscription, a fragment of black and red ware flat dish inscribed in Tamil in the Tamil Brahmi script was excavated at the earliest layer in the southern town.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TISSAMAHARAMA_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The large artificial Tissa Wewa lake, which was a part of a sophisticated irrigation system, also dates from that time.There are five main lakes in the vicinity of Tissamaharama: Tissa Wewa; Yoda Wewa; Weerawila Wewa; Pannegamuwa Wewa; and Debarawewa Wewa.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TISSAMAHARAMA_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The town is home to the Tissamaharama Raja Maha Vihara, an ancient Buddhist monastery established in the 2nd century BC. The monastery has been recognized as a pre-eminent Buddhist educational center of the southern Sri Lanka from the 3rd century B.C. to the 11th century AD. The Tissamaharama Dagoba which is situated in the premises of the monastery is one of the largest stupas in Sri Lanka.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TISSAMAHARAMA_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Tissamaharama was also known for its production of Seric Iron, which was exported to the Romans, Egyptians, Chinese, and Arabs, and is the metal used to create Damascus Steel.</Text>
+		</Replace>
+
+		<!--Tuneriut-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_TUNERIUT_NAME" Language="en_US">
+			<Text>Tuneriut</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TUNERIUT_DESCRIPTION" Language="en_US">
+			<Text>Tuneriut city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_TUNERIUT_ADJECTIVE" Language="en_US">
+			<Text>Tuneriut</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_TUNERIUT" Language="en_US">
+			<Text>Tuneriut</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TUNERIUT_NAME" Language="en_US">
+			<Text>Tuneriut Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_TUNERIUT_DESCRIPTION" Language="en_US">
+			<Text>Receive 2 [ICON_CVS_RESOURCE_WALRUS] Walrus luxury resources, which provide 4 [ICON_Amenities] Amenities. Additionally, owning the Walrus [ICON_CVS_RESOURCE_WALRUS] resource grants your Harbors Major [ICON_Gold] Gold and Standard [ICON_Food] Food adjacency bonuses from Ice.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TUNERIUT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Native Point is a peninsula in Kivalliq Region, Nunavut, Canada. It is located on Southampton Island's Bell Peninsula at the mouth of Native Bay. It is notable for being the location of an abandoned Sadlermiut settlement, currently an archaeological site. The Sadlermiut settlement, situated on the west side of the point, was abandoned after the Sadlermiut became extinct during the winter between 1902 and 1903.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_TUNERIUT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The material culture of the Sadlermiut were limited to chipped stone tools and various manufactured organic artifacts. Among the artifacts found in the site were human figurines called aarnguaq, which was probably used for a healing ritual. This indicates that the Sadlermiut were shamanistic. In addition, multiple human remains were found on the site. Merbs and Wilson grouped the burials intro three series, each with chronological significance: the "village" graves, which were thought to be the oldest, "peripheral" burials located northeast and southeast of the settlement which were given of intermediate age, and a series of "meat-cache" graves, suggested to primarily represent casualties from the 1902-1903 epidemic which decimated the Sadlermiut population.</Text>
+		</Replace>
+
+		<!--Ugarit-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_UGARIT_NAME" Language="en_US">
+			<Text>Ugarit</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_UGARIT_DESCRIPTION" Language="en_US">
+			<Text>Ugarit city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_UGARIT_ADJECTIVE" Language="en_US">
+			<Text>Ugarit</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_UGARIT" Language="en_US">
+			<Text>Ugarit</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_UGARIT_NAME" Language="en_US">
+			<Text>Ugarit Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_UGARIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities with [ICON_Governor] Governors gain +25% [ICON_Production] Production towards naval units, increasing to +50% in later eras. Additionally, your Harbor buildings provide a burst of experience to naval units trained in that city.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ugarit was an ancient port city, the ruins of which are located at what is now called Ras Shamra, a headland in northern Syria.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Neolithic Ugarit was important enough to be fortified with a wall early on, perhaps by 6000 BC, though the site is thought to have been inhabited earlier. Ugarit was important perhaps because it was both a port and at the entrance of the inland trade route to the Euphrates and Tigris lands. The city reached its heyday between 1800 and 1200 BC, when it ruled a trade-based coastal kingdom, trading with Egypt, Cyprus, the Aegean, Syria, the Hittites, and much of the eastern Mediterranean.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Ugarit passed into the sphere of influence of Egypt, which deeply influenced its art. From the 16th to the 13th century BC, Ugarit remained in regular contact with Egypt and Alashiya (Cyprus). In the second millennium BC, Ugarit's population was Amorite, and the Ugaritic language probably has a direct Amoritic origin. The kingdom of Ugarit may have controlled about 2,000 square km on average. During some of its history it would have been in close proximity to, if not directly within the Hittite Empire.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>The last Bronze Age king of Ugarit, Ammurapi (circa 1215 to 1180 BC), was a contemporary of the Hittite king Suppiluliuma II. The exact dates of his reign are unknown. However, a lette by the king is preserved, in which Ammurapi stresses the seriousness of the crisis faced by many Near Eastern states from invasion by the advancing Sea Peoples. Ammurapi pleads for assistance from the king of Alashiya, highlighting the desperate situation Ugarit faced:</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>"My father, behold, the enemy's ships came (here); my cities were burned, and they did evil things in my country. Does not my father know that all my troops and chariots are in the Land of Hatti, and all my ships are in the Land of Lukka? ... Thus, the country is abandoned to itself. May my father know it: the seven ships of the enemy that came here inflicted much damage upon us."</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_UGARIT_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>However, no help arrived, and the city was burned to the ground by the end of the Bronze Age.</Text>
+		</Replace>
+
+		<!--Wyam-->
+		<Replace Tag="LOC_CVS_CIVILIZATION_WYAM_NAME" Language="en_US">
+			<Text>Wyam</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_WYAM_DESCRIPTION" Language="en_US">
+			<Text>Wyam city-state</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_CIVILIZATION_WYAM_ADJECTIVE" Language="en_US">
+			<Text>Wyamite</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WYAM" Language="en_US">
+			<Text>Wyam</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_WYAM_NAME" Language="en_US">
+			<Text>Wyam Suzerain Bonus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_LEADER_TRAIT_WYAM_DESCRIPTION" Language="en_US">
+			<Text>Your sea resources provide +1 [ICON_Culture] Culture and +2 [ICON_Gold] Gold.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Celilo Falls (Wyam, meaning "echo of falling water" or "sound of water upon the rocks," in several native languages) was a tribal fishing area on the Columbia River, just east of the Cascade Mountains, on what is today the border between the U.S. states of Oregon and Washington. The name refers to a series of cascades and waterfalls on the river, as well as to the native settlements and trading villages that existed there in various configurations for 15,000 years. Celilo was the oldest continuously inhabited community on the North American continent until 1957, when the falls and nearby settlements were submerged by the construction of The Dalles Dam.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>For 15,000 years, native peoples gathered at Wyam to fish and exchange goods. They built wooden platforms out over the water and caught salmon with dipnets and long spears on poles as the fish swam up through the rapids and jumped over the falls. Historically, an estimated fifteen to twenty million salmon passed through the falls every year, making it one of the greatest fishing sites in North America.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Celilo Falls and The Dalles were strategically located at the border between Chinookan and Sahaptian speaking peoples and served as the center of an extensive trading network across the Pacific Plateau. Artifacts from the original village site at Celilo suggest that trade goods came from as far away as the Great Plains, Southwestern United States, and Alaska. There are also numerous rock art drawings at the head of the falls. This demonstrates the site to not just be important for trading purposes. It acted as a melting pot for the cultures which fished and traded there. When the Lewis and Clark expedition passed through the area in 1805, the explorers found a "great emporium…where all the neighboring nations assemble," and a population density unlike anything they had seen on their journey. Accordingly, historians have likened the Celilo area to the “Wall Street of the West." The Wishram people lived on the north bank, while the Wasco lived on the south bank, with the most intense bargaining occurring at the Wishram village of Nix-luidix. Charles Wilkes reported finding three major native fishing sites on the lower Columbia — Celilo Falls, the Big Dalles, and Cascades Rapids, with the Big Dalles being the largest. Alexander Ross described it as the "great rendezvous" of native traders, as "the great emporium or mart of the Columbia." Pinnipeds such as sea lions and seals followed salmon up the Columbia as far as Celilo Falls. In 1841 George Simpson wrote "these animals ascend the Columbia in great numbers in quest of the salmon.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>As more settlers arrived in the Pacific Northwest in the 1930s and 1940s, civic leaders advocated a system of hydroelectric dams on the Columbia River. They argued that the dams would improve navigation for barge traffic from interior regions to the ocean; provide a reliable source of irrigation for agricultural production; provide electricity for the World War II defense industry; and alleviate the flooding of downriver cities, as occurred in the 1948 destruction of Vanport City, Oregon. Aluminum production, shipbuilding, and nuclear production at the Hanford site contributed to a rapid increase in regional demand for electricity. By 1943, fully 96 percent of Columbia River electricity was being used for war manufacturing. The volume of water at Celilo Falls made The Dalles an attractive site for a new dam in the eyes of the Corps of Engineers.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Throughout this period, native people continued to fish at Celilo, under the provisions of the 1855 Treaties signed with the Yakama Nation, the Confederated Tribes of Warm Springs, and the Walla Walla, Umatilla, and Cayuse, which guaranteed the tribes' ancient "right of taking fish at all usual and accustomed stations." In 1947, the federal government convened Congressional hearings and concluded that the proposed dam at The Dalles would not violate tribal fishing rights under the treaties. Subsequently, the government reached a monetary settlement with the affected tribes, paying $26.8 million for the loss of Celilo and other fishing sites on the Columbia.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CVS_CIVILIZATION_WYAM_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>The Army Corps of Engineers commenced work on The Dalles Dam in 1952 and completed it five years later. On March 10, 1957, hundreds of observers looked on as a rising Lake Celilo rapidly silenced the falls, submerged fishing platforms, and consumed the village of Celilo, ending an age-old existence for those who lived there. A small Native American community exists today at nearby Celilo Village, on a bluff overlooking the former location of the falls.</Text>
+		</Replace>
+
+		<!--Unit Abilities-->
+		<Replace Tag="LOC_CVS_ABILITY_GUAPONDELIG_HILL_MOVEMENT_NAME" Language="en_US">
+			<Text>Andean Agility</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_GUAPONDELIG_HILL_MOVEMENT_DESCRIPTION" Language="en_US">
+			<Text>Hills only take one [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_GUAPONDELIG_HILL_COMBAT_NAME" Language="en_US">
+			<Text>Andean Tactics</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_GUAPONDELIG_HILL_COMBAT_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting in Hills.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_GUAPONDELIG_HILL_COMBAT_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+{1_Amount} Combat Strength when fighting in Hills</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_KADESH_CAVALRY_PUSHBACK_NAME" Language="en_US">
+			<Text>Kadeshan Heavy Cavalry</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_KADESH_CAVALRY_PUSHBACK_DESCRIPTION" Language="en_US">
+			<Text>Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_SERIC_IRON_NAME" Language="en_US">
+			<Text>Seric Iron</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_SERIC_IRON_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength to melee and anti-cavalry units.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_ABILITY_SERIC_IRON_COMBAT_MODIFIER_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength from Seric Iron.</Text>
+		</Replace>
+
+		<!--Resources-->
+		<Replace Tag="LOC_CVS_RESOURCE_ABACA_NAME" Language="en_US">
+			<Text>Abacá</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_ABACA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Abacá is a species of banana native to the Philippines, grown as a commercial crop in the Philippines, Ecuador, and Costa Rica. The plant, also known as Manila hemp, has great economic importance, being harvested for its fiber, also called Manila hemp, extracted from the leaf-stems. The plant grows to 13–22 feet (4.0–6.7 m), and averages about 12 feet (3.7 m). The fiber was originally used for making twines and ropes; now most is pulped and used in a variety of specialized paper products including tea bags, filter paper and banknotes. Due to its strength, it is a sought after product and is the strongest of the natural fibers.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_RESOURCE_GLASS_NAME" Language="en_US">
+			<Text>Glass</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_GLASS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Glassmaking is an ancient art, originating as far back as 3500 BC in Mesopotamia. Glass has been a luxury since these early times, but as technology and industrial capacity increased it began to be used for household and industrial purposes. The Phoenicians were notable early glassmakers, particularly at the city of Sidon, which exported glass around the known world. New applications for glass continue to be found, along with ever increasingly refined methods for creating it. Despite this - or perhaps because of it - artisans continuing to make glass using traditional techniques are experiencing a resurgance.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_RESOURCE_LEATHER_NAME" Language="en_US">
+			<Text>Leather</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_LEATHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Leather is a durable and flexible material created by tanning animal rawhides, mostly cattle hide. It can be produced at manufacturing scales ranging from cottage industry to heavy industry. Leather is used to make various goods, including clothing (especially footwear), in bookbinding, and as a furniture covering. Due to its excellent resistance to abrasion and wind, leather found a use in rugged occupations. The enduring image of a cowboy in leather chaps gave way to the leather-jacketed and leather-helmeted aviator. When motorcycles were invented, some riders took to wearing heavy leather jackets to protect from road rash and wind blast; some also wear chaps or full leather pants to protect the lower body. Many sports still use leather equipment. Its flexibility facilitates forming and shaping it into balls and protective gear.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_RESOURCE_MANGOSTEEN_NAME" Language="en_US">
+			<Text>Mangosteen</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_MANGOSTEEN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Mangosteen is a native plant to Southeast Asia. Highly valued for its juicy, delicate texture and slightly sweet and sour flavour, the mangosteen has been cultivated in Malaysia, Borneo, Sumatra, Mainland Southeast Asia, and the Philippines since ancient times. The 15th-century Chinese record Yingya Shenglan described mangosteen as mang-chi-shih (derived from Malay Language manggis), a native plant of Southeast Asia of white flesh with delectable sweet and sour taste. There is a legend about Queen Victoria offering a reward of 100 pounds sterling to anyone who could deliver to her the fresh fruit. Although this legend can be traced to a 1930 publication by the fruit explorer, David Fairchild, it is not substantiated by any known historical document, yet is probably responsible for the uncommon designation of mangosteen as the "Queen of Fruit".</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_RESOURCE_SERIC_IRON_NAME" Language="en_US">
+			<Text>Seric Iron</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_SERIC_IRON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Seric Iron is a crucible steel characterized by a pattern of bands, which are formed by sheets of micro carbides within a tempered martensite or pearlite matrix in higher carbon steel, or by ferrite and pearlite banding in lower carbon steels. It is the pioneering steel alloy matrix developed in Southern India in the 6th century BC and exported globally. It was also known in the ancient world by many different names including Wootz, Ukku, Hindvi Steel, Hinduwani Steel, and Teling Steel. The metal was exported from production sites in southern India and Sri Lanka. The Arabs introduced Seric Iron to Damascus, where an industry developed for making weapons of this steel.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_RESOURCE_WALRUS_NAME" Language="en_US">
+			<Text>Walrus</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_DISTRICT_ICE_FOOD" Language="en_US">
+			<Text>+{1_num} [ICON_Food] Food from the adjacent Ice tile(s).</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_DISTRICT_ICE_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Ice tile(s).</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_RESOURCES_PAGE_CVS_RESOURCE_WALRUS_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Adult walrus are easily recognized by their prominent tusks, whiskers, and bulkiness. Adult males in the Pacific can weigh more than 2,000 kg (4,400 lb) and, among pinnipeds, are exceeded in size only by the two species of elephant seals. Walruses live mostly in shallow waters above the continental shelves, spending significant amounts of their lives on the sea ice looking for benthic bivalve mollusks to eat. Walruses are relatively long-lived, social animals, and they are considered to be a "keystone species" in the Arctic marine regions. The walrus has played a prominent role in the cultures of many indigenous Arctic peoples, who have hunted the walrus for its meat, fat, skin, tusks, and bone. During the 19th century and the early 20th century, walruses were widely hunted and killed for their blubber, walrus ivory, and meat. The population of walruses dropped rapidly all around the Arctic region. Their population has rebounded somewhat since then, though the populations of Atlantic and Laptev walruses remain fragmented and at low levels compared with the time before human interference.</Text>
+		</Replace>
+
+		<!--Improvements-->
+		<Replace Tag="LOC_CVS_IMPROVEMENT_GREAT_KIVA_NAME" Language="en_US">
+			<Text>Great Kiva</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_IMPROVEMENT_GREAT_KIVA_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct a Great Kiva.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Food] Food from each adjacent Grass, Plains, and Desert Hills. +1 [ICON_Production] Production from every 2 adjacent flat Grass, Plains, or Desert tiles.[NEWLINE][NEWLINE]Cannot be built next to another Great Kiva. Can only be built on Desert and Desert Hill tiles.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_CVS_IMPROVEMENT_GREAT_KIVA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A kiva is a room used by Puebloans for religious rituals and political meetings, many of them associated with the kachina belief system. Among the modern Hopi and most other Pueblo peoples, kivas are square-walled and underground, and are used for spiritual ceremonies. Great kivas differ from regular kivas, which archeologists call Chaco-style kivas, in several ways; first and foremost, great kivas are always much larger and deeper than Chaco-style kivas. Whereas the walls of great kivas always extend above the surrounding landscape, the walls of Chaco-style kivas do not, but are instead flush with the surrounding landscape. Chaco-style kivas are often found incorporated into the central room blocks of great houses, but great kivas are always separate from core structures. Great kivas almost always have a bench that encircles the inner space, but this feature is not found in Chaco-style kivas. Great kivas also tend to include floor vaults, which might have served as foot drums for ceremonial dancers, but Chaco-style kivas do not. Great kivas are believed to be the first public buildings constructed in the Mesa Verde region.</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_IMPROVEMENT_STUPA_NAME" Language="en_US">
+			<Text>Stupa</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_IMPROVEMENT_STUPA_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct a Stupa.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if adjacent to a Holy Site, +2 [ICON_Culture] Culture if adjacent to a Theater Square, and +2 [ICON_Science] Science if adjacent to a Campus.[NEWLINE][NEWLINE]Cannot be built next to another Stupa. Cannot be built on Tundra, Snow, or Desert tiles.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_CVS_IMPROVEMENT_STUPA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Stupas originated as pre-Buddhist tumuli in which śramanas were buried in a seated position called chaitya. After the parinirvana of the Buddha, his remains were cremated and the ashes divided and buried under eight mounds with two further mounds encasing the urn and the embers. The stupa was elaborated as Buddhism spread to other Asian countries, becoming, for example, the chörten of Tibet and the pagoda in East Asia. Stupas were built in Sri Lanka soon after Devanampiya Tissa of Anuradhapura converted to Buddhism. The first stupa to be built was the Thuparamaya. Later, many more were built over the years, some like the Jetavanaramaya in Anuradhapura being one of the tallest ancient structures in the world.</Text>
+		</Replace>
+
+		<!--Compatibility-->
+		<Replace Tag="LOC_CVS_BUILDING_CHAITYA_NAME" Language="en_US">
+			<Text>Chaitya</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_BELIEF_CHAITYA_NAME" Language="en_US">
+			<Text>Chaitya</Text>
+		</Replace>
+		<Replace Tag="LOC_CVS_BELIEF_CHAITYA_DESCRIPTION" Language="en_US">
+			<Text>Allows construction of Chaityas (+3 [ICON_Faith] Faith, +1 [ICON_Amenities] Amenity).</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CVS_CITYSTATES_LEADER_TRAIT_MUSCAT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district. This increases to 2 [ICON_Amenities] Amenities if the Commercial Hub adjacency bonus is 4 or more.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

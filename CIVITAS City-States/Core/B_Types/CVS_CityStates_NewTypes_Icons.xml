@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- CVS_CityStates_NewTypes_Icons -->
+<!-- Author: thecrazyscotsman -->
+<!-- DateCreated: 12/15/2017 9:26:25 PM -->
+<GameInfo>
+	<IconTextureAtlases>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="22" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates22.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="30" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates30.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="36" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates36.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="40" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates40.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="44" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates44.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="48" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates48.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="64" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates64.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="68" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates68.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="80" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates80.dds"/>
+		<Row Name="ICON_ATLAS_CVS_CITYSTATES" IconSize="256" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_CityStates256.dds"/>
+
+		<Row Name="ICON_ATLAS_CVS_ENVOY_BONUSES" IconSize="26" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_EnvoyBonuses26.dds"/>
+		<Row Name="ICON_ATLAS_CVS_ENVOY_BONUSES" IconSize="50" IconsPerRow="4" IconsPerColumn="1" Filename="CVS_EnvoyBonuses50.dds"/>
+	</IconTextureAtlases>
+	<IconDefinitions>
+		<Row Name="ICON_CVS_CITYSTATE_AGRICULTURAL"		Atlas="ICON_ATLAS_CVS_CITYSTATES" Index="0"/>
+		<Row Name="ICON_CVS_CITYSTATE_ENTERTAINMENT"			Atlas="ICON_ATLAS_CVS_CITYSTATES" Index="1"/>
+		<Row Name="ICON_CVS_CITYSTATE_CONSULAR"			Atlas="ICON_ATLAS_CVS_CITYSTATES" Index="2"/>
+		<Row Name="ICON_CVS_CITYSTATE_MARITIME"			Atlas="ICON_ATLAS_CVS_CITYSTATES" Index="3"/>
+
+		<Row Name="ICON_CVS_ENVOY_BONUS_AGRICULTURAL"	Atlas="ICON_ATLAS_CVS_ENVOY_BONUSES" Index="0"/>
+		<Row Name="ICON_CVS_ENVOY_BONUS_ENTERTAINMENT"	Atlas="ICON_ATLAS_CVS_ENVOY_BONUSES" Index="1"/>
+		<Row Name="ICON_CVS_ENVOY_BONUS_CONSULAR"		Atlas="ICON_ATLAS_CVS_ENVOY_BONUSES" Index="2"/>
+		<Row Name="ICON_CVS_ENVOY_BONUS_MARITIME"		Atlas="ICON_ATLAS_CVS_ENVOY_BONUSES" Index="3"/>
+	</IconDefinitions>
+</GameInfo>

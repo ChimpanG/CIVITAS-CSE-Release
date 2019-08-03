@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="7d0b57ba-6a5c-4de0-ac10-e1e464ac82f6" version="102">
+  <Properties>
+    <Name>CIVITAS [ICON_GreatProphet] [COLOR_FLOAT_CULTURE]City-States Expanded[ENDCOLOR]</Name>
+    <Description>City-States Expanded adds 4 new city-state types and over 40 new city-states. Updates and balance changes to existing city-states are also included.</Description>
+    <Teaser>Overhauls and expands the city-state system.</Teaser>
+    <Authors>thecrazyscotsman, Chrisy15, p0kiehl, ChimpanG, Digihuman, Sailor Cat, SeelingCat</Authors>
+  </Properties>
+  <ActionCriteria>
+    <Criteria id="XP1">
+      <GameCoreInUse>Expansion1</GameCoreInUse>
+    </Criteria>
+  </ActionCriteria>
+  <InGameActions>
+    <UpdateDatabase id="CVS_CityStates_Framework">
+      <Properties>
+        <LoadOrder>48</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/A_Framework/CVS_CityStates_Schema.sql</File>
+      <File>Core/A_Framework/CVS_CityStates_RemoveData.sql</File>
+    </UpdateDatabase>
+    <UpdateDatabase id="CVS_CityStates_Types">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/B_Types/CVS_CityStates_Colors.sql</File>
+      <File>Core/B_Types/CVS_CityStates_NewTypes.sql</File>
+      <File>Core/B_Types/CVS_CityStates_Compatibility.sql</File>
+      <File>Core/B_Types/C15_CSUnhardcode_DB.sql</File>
+    </UpdateDatabase>
+    <UpdateDatabase id="CVS_CityStates_MinorCivs">
+      <Properties>
+        <LoadOrder>50</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/C_CityStates/CVS_CityStates_Updates.sql</File>
+      <File>Core/C_CityStates/CVS_CityStates_Improvements.sql</File>
+      <File>Core/C_CityStates/CVS_CityStates_Resources.sql</File>
+      <File>Core/C_CityStates/CVS_CityStates_UnitAbilities.sql</File>
+      <File>Core/C_CityStates/CVS_CityStates_Civilizations.sql</File>
+      <File>Core/C_CityStates/CVS_CityStates_ModCompatibility.sql</File>
+    </UpdateDatabase>
+    <UpdateText id="CVS_CityStates_Text">
+      <Properties>
+        <LoadOrder>48</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/B_Types/CVS_CityStates_NewTypes_Text.xml</File>
+      <File>Core/C_CityStates/CVS_CityStates_Civilizations_Text.xml</File>
+    </UpdateText>
+    <UpdateIcons id="CVS_CityStates_Icons">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/B_Types/CVS_CityStates_NewTypes_Icons.xml</File>
+      <File>Core/C_CityStates/CVS_CityStates_Civilizations_Icons.xml</File>
+    </UpdateIcons>
+    <ReplaceUIScript id="CVS_CityStates">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+        <LuaContext>CityStates</LuaContext>
+        <LuaReplace>Core/B_Types/UI Replacements/CityStates.lua</LuaReplace>
+      </Properties>
+      <Criteria>XP1</Criteria>
+    </ReplaceUIScript>
+    <ReplaceUIScript id="CVS_TradeOverview">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+        <LuaContext>TradeOverview</LuaContext>
+        <LuaReplace>Core/B_Types/UI Replacements/CVS_CityStates_TradeOverview.lua</LuaReplace>
+      </Properties>
+      <Criteria>XP1</Criteria>
+    </ReplaceUIScript>
+    <ImportFiles id="CVS_CityStates_UI">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/B_Types/UI Replacements/CityStates.lua</File>
+      <File>Core/B_Types/UI Replacements/CivilopediaPage_CityState.lua</File>
+      <File>Core/B_Types/UI Replacements/CVS_CityStates_TradeOverview.lua</File>
+    </ImportFiles>
+    <UpdateArt id="CVS_CityStates_Art">
+      <Properties>
+        <LoadOrder>49</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>CIVITAS CityStates Expanded.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>ArtDefs/Civilizations.artdef</File>
+    <File>ArtDefs/Cultures.artdef</File>
+    <File>ArtDefs/Improvements.artdef</File>
+    <File>ArtDefs/Landmarks.artdef</File>
+    <File>ArtDefs/StrategicView.artdef</File>
+    <File>CIVITAS CityStates Expanded.dep</File>
+    <File>Core/A_Framework/CVS_CityStates_RemoveData.sql</File>
+    <File>Core/A_Framework/CVS_CityStates_Schema.sql</File>
+    <File>Core/B_Types/C15_CSUnhardcode_DB.sql</File>
+    <File>Core/B_Types/CVS_CityStates_Colors.sql</File>
+    <File>Core/B_Types/CVS_CityStates_Compatibility.sql</File>
+    <File>Core/B_Types/CVS_CityStates_NewTypes.sql</File>
+    <File>Core/B_Types/CVS_CityStates_NewTypes_Icons.xml</File>
+    <File>Core/B_Types/CVS_CityStates_NewTypes_Text.xml</File>
+    <File>Core/B_Types/UI Replacements/CityStates.lua</File>
+    <File>Core/B_Types/UI Replacements/CivilopediaPage_CityState.lua</File>
+    <File>Core/B_Types/UI Replacements/CVS_CityStates_TradeOverview.lua</File>
+    <File>Core/C_CityStates/CVS_CityStates_Civilizations.sql</File>
+    <File>Core/C_CityStates/CVS_CityStates_Civilizations_Icons.xml</File>
+    <File>Core/C_CityStates/CVS_CityStates_Civilizations_Text.xml</File>
+    <File>Core/C_CityStates/CVS_CityStates_Improvements.sql</File>
+    <File>Core/C_CityStates/CVS_CityStates_ModCompatibility.sql</File>
+    <File>Core/C_CityStates/CVS_CityStates_Resources.sql</File>
+    <File>Core/C_CityStates/CVS_CityStates_UnitAbilities.sql</File>
+    <File>Core/C_CityStates/CVS_CityStates_Updates.sql</File>
+    <File>Platforms/MacOS/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_M</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_FOW</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_H</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_B</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_H</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Classical_01_B</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Classical_01_H</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Industrial_01_FOW</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_01_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_PIL_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Classical_01_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_AB_Base_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_RNA_Base_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_RSS_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_Mine_Base_B_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Kiva_BaseColor_null</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_E</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_N0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_N1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Bld_A</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_N0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_N1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_E</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_E</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_N0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_N1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_A</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_E</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_G</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_M</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_N0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_N1</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Kiva_Height</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Kiva_Normal0</File>
+    <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Kiva_Normal1</File>
+    <File>Platforms/MacOS/BLPs/strategicview/strategicview_improvements.blp</File>
+    <File>Platforms/MacOS/BLPs/UI/Icons.blp</File>
+    <File>Platforms/Windows/BLPs/landmarks/tilebases.blp</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Burn_M</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_FOW</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_H</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_B</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_PIL_H</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Classical_01_B</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Classical_01_H</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Industrial_01_FOW</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_01_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Ancient_PIL_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Decals_Parts_Classical_01_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_AB_Base_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_RNA_Base_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_DIS_CTY_RSS_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_IMP_Mine_Base_B_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DiffuseTint_Kiva_BaseColor_null</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_E</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_N0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Base_N1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_AB_Bld_A</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_N0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_Base_N1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RNA_E</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_E</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_N0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_DIS_CTY_RSS_N1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_A</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_E</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_G</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_M</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_N0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_IMP_Mine_Base_N1</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Kiva_Height</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Kiva_Normal0</File>
+    <File>Platforms/Windows/BLPs/SHARED_DATA/TEXTURE_Kiva_Normal1</File>
+    <File>Platforms/Windows/BLPs/strategicview/strategicview_improvements.blp</File>
+    <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
+  </Files>
+</Mod>
