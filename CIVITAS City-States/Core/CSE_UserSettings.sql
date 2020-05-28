@@ -252,6 +252,16 @@ VALUES
 	('CITY_STATE_WARMONGER',	150	),
 
 -----------------------------------------------		
+-- OPTION | Should Consular City states give Favor? or should they give loyalty?
+
+-- Our Default: 0 (Favor)
+
+-- Change to 1 if you'd like them to give loyalty instead (what they did before Gathering Storm)
+-----------------------------------------------
+
+	('CONSULAR_BONUS_TYPE',		0	),
+
+-----------------------------------------------		
 -- OPTION | How much Diplomatic Favor should you earn for being Suzerain? 
 
 -- Game Default: 1
@@ -360,7 +370,7 @@ INSERT INTO CSE_UserSettings (Setting, Section, Requires, Value) VALUES
 	('CSE_GUNDESHAPUR',		'DISABLED', 'XP2',	0	), -- Requires XP2 (Gathering Storm)
 	('CSE_HADAD',			'DISABLED', 'XP1',	0	), -- Requires XP1 or XP2 (Rise and Fall or Gathering Storm)
 	('CSE_HALIN',			'DISABLED', 'XP1',	0	), -- Requires XP1 or XP2 (Rise and Fall or Gathering Storm)
-	('CSE_HAVANA',			'DISABLED', 'BASE',	0	),
+	('CSE_HAVANA',			'DISABLED', 'XP1',	0	),
 	('CSE_HAZOR',			'DISABLED', 'BASE',	0	),
 	('CSE_HORMUZ',			'DISABLED', 'XP1',	0	), -- Requires XP1 or XP2 (Rise and Fall or Gathering Storm)
 	('CSE_HVALSEY',			'DISABLED', 'XP2',	0	), -- Requires XP2 (Gathering Storm)

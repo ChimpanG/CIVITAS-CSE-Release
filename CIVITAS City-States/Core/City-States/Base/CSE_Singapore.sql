@@ -3,6 +3,7 @@
 	~ Your civilization gains +1 Gold for each Envoy sent to a City-State
 
 	Authors: ChimpanG
+
 */
 
 -----------------------------------------------
@@ -11,7 +12,8 @@
 
 INSERT INTO TraitModifiers
 		(TraitType,							ModifierId							)
-VALUES	('MINOR_CIV_CSE_SINGAPORE_TRAIT',	'CSE_SINGAPORE_SUZERAIN_ENVOY_GOLD'	);
+SELECT	'MINOR_CIV_CSE_SINGAPORE_TRAIT',	'CSE_SINGAPORE_SUZERAIN_ENVOY_GOLD'
+WHERE EXISTS (SELECT * FROM Civilizations WHERE CivilizationType = 'CIVILIZATION_CSE_SINGAPORE');
 
 -----------------------------------------------
 -- Modifiers
@@ -31,3 +33,4 @@ INSERT INTO ModifierArguments
 VALUES	('CSE_SINGAPORE_SUZERAIN_ENVOY_GOLD',	'ModifierId',	'CSE_SINGAPORE_ENVOY_GOLD'	),
 		('CSE_SINGAPORE_ENVOY_GOLD',			'YieldType',	'YIELD_GOLD'				),
 		('CSE_SINGAPORE_ENVOY_GOLD',			'Amount',		1							);
+

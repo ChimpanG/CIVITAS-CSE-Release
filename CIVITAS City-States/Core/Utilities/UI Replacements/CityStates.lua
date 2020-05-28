@@ -1106,6 +1106,7 @@ function ViewList()
 
 				local kItem		:table = m_BonusItemIM:GetInstance();
 				local textureOffsetX, textureOffsetY, textureSheet = GetBonusIconAtlasPieces( kCityState, 50 );
+				print ("DEBUG", textureOffsetX, textureOffsetY, textureSheet)
 				kItem.Icon:SetTexture( textureOffsetX, textureOffsetY, textureSheet );
 				kItem.Icon:SetColor( kCityState.ColorSecondary );
 				kItem.Title:SetColor( kCityState.ColorSecondary );
@@ -1152,6 +1153,9 @@ function ViewList()
 					--local PADDING:number = 40;
 					--kItem.Top:SetSizeY( kItem.Details:GetSizeY() + PADDING );
 				end
+
+				local PADDING:number = 40;
+				kItem.Top:SetSizeY( kItem.Details:GetSizeY() + PADDING );
 
 			end
 		end

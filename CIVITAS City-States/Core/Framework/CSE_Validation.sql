@@ -154,6 +154,16 @@ WHERE EXISTS (SELECT Type FROM Types WHERE Type IN
 'LEADER_ELEANOR'
 ));
 
+REPLACE INTO ModValidation (Version)
+SELECT	'NF1'
+WHERE EXISTS (SELECT Type FROM Types WHERE Type IN
+(
+'CIVILIZATION_GRAN_COLOMBIA',
+'CIVILIZATION_MAYA',
+'LEADER_LADY_SIX_SKY',
+'LEADER_SIMON_BOLIVAR'
+));
+
 INSERT INTO ModValidation (Version)
 SELECT	Setting
 FROM	CSE_UserSettings
@@ -192,6 +202,13 @@ SET		Discard = 1
 WHERE	Requires NOT IN (SELECT * FROM ModValidation)
 OR		Version NOT IN (SELECT * FROM ModValidation)
 OR		Removed IN (SELECT * FROM ModValidation);
+
+-- Remove City-States that are superceded by later DLC
+
+UPDATE	CSE_Master
+SET		Discard = 1
+WHERE	CityState = 'CSE_SINGAPORE' AND
+EXISTS (SELECT * FROM ModValidation WHERE Version = 'NF1');
 
 -- Remove City-States from Master depending on active DLC, XP etc
 DELETE FROM CSE_Master

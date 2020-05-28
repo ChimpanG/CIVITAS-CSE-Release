@@ -345,7 +345,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_CHETRO_KETL_ADJECTIVE",		"Chacoan"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_CHETRO_KETL_DESCRIPTION",		"{LOC_CIVILIZATION_CSE_CHETRO_KETL_NAME} city-state"		),
 	("en_US",	"LOC_CSE_CHETRO_KETL_TRAIT_NAME",					"{LOC_CIVILIZATION_CSE_CHETRO_KETL_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_CHETRO_KETL_TRAIT_DESCRIPTION",			"Your Builders may construct the Kiva unique improvement.[NEWLINE][NEWLINE]Kivas yield +2 [ICON_FAITH] Faith and +0.5 [ICON_HOUSING] Housing, with additional [ICON_FAITH] Faith, [ICON_FOOD] Food and [ICON_PRODUCTION] Production from adjacent Grass and Plains tiles as you progress through the Civics and Technology trees. Must be built on Desert or Desert Hills tiles."	),
+	("en_US",	"LOC_CSE_CHETRO_KETL_TRAIT_DESCRIPTION",			"Your Builders may construct the Kiva unique improvement.[NEWLINE][NEWLINE]Kivas yield +2 [ICON_FAITH] Faith and +0.5 [ICON_HOUSING] Housing, with additional [ICON_FAITH] Faith, [ICON_FOOD] Food and [ICON_PRODUCTION] Production from adjacent Grass and Plains tiles as you progress through the Civics and Technology trees. Must be built on Desert or Desert Hills tiles, but not next to another Great Kiva."	),
 	
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_CHETRO_KETL_NAME",		"{LOC_CIVILIZATION_CSE_CHETRO_KETL_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_CHETRO_KETL",						"{LOC_CIVILIZATION_CSE_CHETRO_KETL_NAME}"	),
@@ -355,7 +355,7 @@ VALUES
 	("en_US",	"LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CSE_CHETRO_KETL_CHAPTER_HISTORY_PARA_3",	"Chetro Ketl's purpose is widely debated but many archeologists believe the building was a place of large-scale ceremony that held an important position within the larger Chacoan system. It may have been occupied primarily by groups of priests and, during times of ritual, pilgrims from outlying communities. Archeologist Stephen H. Lekson believes Chetro Ketl was a palace inhabited by Chacoan royalty, and the scale of its construction was motivated by what architects call 'massing': building imposing structures with the intent to impress onlookers."	),
 	
 	("en_US",	"LOC_IMPROVEMENT_CSE_KIVA_NAME",					"Kiva"	),
-	("en_US",	"LOC_IMPROVEMENT_CSE_KIVA_DESCRIPTION",				"Unlocks the Builder ability to construct a Great Kiva.[NEWLINE][NEWLINE]Yields +2 [ICON_FAITH] Faith and +0.5 [ICON_HOUSING] Housing, with additional [ICON_FAITH] Faith, [ICON_FOOD] Food and [ICON_PRODUCTION] Production from adjacent Grass and Plains tiles as you progress through the Civics and Technology trees. Must be built on Desert or Desert Hills tiles."	),
+	("en_US",	"LOC_IMPROVEMENT_CSE_KIVA_DESCRIPTION",				"Unlocks the Builder ability to construct a Great Kiva.[NEWLINE][NEWLINE]Yields +2 [ICON_FAITH] Faith and +0.5 [ICON_HOUSING] Housing, with additional [ICON_FAITH] Faith, [ICON_FOOD] Food and [ICON_PRODUCTION] Production from adjacent Grass and Plains tiles as you progress through the Civics and Technology trees. Must be built on Desert or Desert Hills tiles, but not next to another Great Kiva."	),
 
 	("en_US",	"LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CSE_KIVA_CHAPTER_HISTORY_PARA_1",		"A kiva is a room used by Puebloans for religious rituals and political meetings, many of them associated with the kachina belief system. Among the modern Hopi and most other Pueblo peoples, kivas are square-walled and underground, and are used for spiritual ceremonies. Great kivas differ from regular kivas, which archeologists call Chaco-style kivas, in several ways; first and foremost, great kivas are always much larger and deeper than Chaco-style kivas. Whereas the walls of great kivas always extend above the surrounding landscape, the walls of Chaco-style kivas do not, but are instead flush with the surrounding landscape. Chaco-style kivas are often found incorporated into the central room blocks of great houses, but great kivas are always separate from core structures. Great kivas almost always have a bench that encircles the inner space, but this feature is not found in Chaco-style kivas. Great kivas also tend to include floor vaults, which might have served as foot drums for ceremonial dancers, but Chaco-style kivas do not. Great kivas are believed to be the first public buildings constructed in the Mesa Verde region."	),
 
@@ -555,7 +555,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_HAVANA_ADJECTIVE",	"Havana"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_HAVANA_DESCRIPTION",	"{LOC_CIVILIZATION_CSE_HAVANA_NAME} city-state"		),
 	("en_US",	"LOC_CSE_HAVANA_TRAIT_NAME",				"{LOC_CIVILIZATION_CSE_HAVANA_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_HAVANA_TRAIT_DESCRIPTION",			"Great Works of [ICON_GREATWORK_WRITING] Writing, [ICON_GREATWORK_LANDSCAPE] Art, and [ICON_GREATWORK_MUSIC] Music yield +2 [ICON_GOLD] Gold for each Harbor building in the city."	),
+	("en_US",	"LOC_CSE_HAVANA_TRAIT_DESCRIPTION",			"Harbors produce [ICON_CULTURE] Culture equal to their adjacency bonus, and Theater Squares produce [ICON_GOLD] Gold equal to their adjacency bonus."	),
 	
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_HAVANA_NAME",		"{LOC_CIVILIZATION_CSE_HAVANA_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_HAVANA",						"{LOC_CIVILIZATION_CSE_HAVANA_NAME}"	),
@@ -742,7 +742,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_KATARAGAMA_ADJECTIVE",	"Kataragama"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_KATARAGAMA_DESCRIPTION",	"{LOC_CIVILIZATION_CSE_KATARAGAMA_NAME} city-state"		),
 	("en_US",	"LOC_CSE_KATARAGAMA_TRAIT_NAME",				"{LOC_CIVILIZATION_CSE_KATARAGAMA_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_KATARAGAMA_TRAIT_DESCRIPTION",			"Fresh water tiles and those adjacent yield +1 [ICON_FAITH] Faith."	),
+	("en_US",	"LOC_CSE_KATARAGAMA_TRAIT_DESCRIPTION",			"Tiles with fresh water access yield +1 [ICON_FAITH] Faith."	),
 	
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_KATARAGAMA_NAME",		"{LOC_CIVILIZATION_CSE_KATARAGAMA_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_KATARAGAMA",						"{LOC_CIVILIZATION_CSE_KATARAGAMA_NAME}"	),
@@ -797,7 +797,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_LIMA_ADJECTIVE",		"Lima"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_LIMA_DESCRIPTION",	"{LOC_CIVILIZATION_CSE_LIMA_NAME} city-state"		),
 	("en_US",	"LOC_CSE_LIMA_TRAIT_NAME",					"{LOC_CIVILIZATION_CSE_LIMA_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_LIMA_TRAIT_DESCRIPTION",			"Your cities may build one more district than the [ICON_CITIZEN] Population would allow, if it has a Campus. Receive +50% [ICON_PRODUCTION] Production toward Campus districts."	),
+	("en_US",	"LOC_CSE_LIMA_TRAIT_DESCRIPTION",			"Your cities may build one more district than the [ICON_CITIZEN] Population would allow, if it has a Campus. Receive +20% [ICON_PRODUCTION] Production toward Campus districts."	),
 	
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_LIMA_NAME",		"{LOC_CIVILIZATION_CSE_LIMA_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_LIMA",						"{LOC_CIVILIZATION_CSE_LIMA_NAME}"	),
@@ -834,8 +834,8 @@ VALUES
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_MAI_NAME",	"{LOC_CIVILIZATION_CSE_MAI_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_MAI",					"{LOC_CIVILIZATION_CSE_MAI_NAME}"	),
 
-	("en_US",	"LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CSE_MAI_CHAPTER_HISTORY_PARA_1",	"Maingmaw was founded some time in the first millenium BC, and was one of the largest ancient cities in the region. It was protected by three walls - an outer ring, a square inner wall, and then another circular keep. A canal ran through the city."	),
-	("en_US",	"LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CSE_MAI_CHAPTER_HISTORY_PARA_2",	"In the 19th century, the Nandawya Paya temple was built in the centre of the ancient city site, possibly on top of an old temple ruin."	),
+	("en_US",	"LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CSE_MAI_CHAPTER_HISTORY_PARA_1",	"Ma-i (also known as Maidh) was an ancient polity located in the modern-day Philippines. It is notable as the first place in the Philippines to be mentioned in a foreign account."	),
+	("en_US",	"LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CSE_MAI_CHAPTER_HISTORY_PARA_2",	"The exact location of Ma-i is not known for certain, but historians believe that Bay, Laguna or the island of Mindoro are likely candidates. Chinese sources say the people of Ma-i lived in large villages and were known for the production of kapok cotton, beeswax, betel nuts, and cloth. It is unclear when the Ma-i state collapsed, but the last historical reference dates to 1339, suggesting an existence of over 350 years."	),
 
 	("en_US",	"LOC_RESOURCE_CSE_BEESWAX_NAME",		"Beeswax"		),
 	("en_US",	"LOC_RESOURCE_CSE_BETEL_NUT_NAME",		"Betel Nut"		),
@@ -1029,7 +1029,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_PHASIS_ADJECTIVE",	"Phasian"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_PHASIS_DESCRIPTION",	"{LOC_CIVILIZATION_CSE_PHASIS_NAME} city-state"		),
 	("en_US",	"LOC_CSE_PHASIS_TRAIT_NAME",				"{LOC_CIVILIZATION_CSE_PHASIS_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_PHASIS_TRAIT_DESCRIPTION",			"Forest tiles yield +1 [ICON_PRODUCTION] Production if adjacent to at least two other Forest tiles. Lumber Mills yield +2 [ICON_GOLD] Gold when adjacent to a river."	),
+	("en_US",	"LOC_CSE_PHASIS_TRAIT_DESCRIPTION",			"Forest tiles yield +1 [ICON_PRODUCTION] Production if adjacent to another Forest tile. Lumber Mills yield +2 [ICON_GOLD] Gold when adjacent to a river."	),
 	
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_PHASIS_NAME",		"{LOC_CIVILIZATION_CSE_PHASIS_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_PHASIS",						"{LOC_CIVILIZATION_CSE_PHASIS_NAME}"	),
@@ -1278,10 +1278,13 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_TISSAMAHARAMA_ADJECTIVE",		"Tissamaharama"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_TISSAMAHARAMA_DESCRIPTION",	"{LOC_CIVILIZATION_CSE_TISSAMAHARAMA_NAME} city-state"		),
 	("en_US",	"LOC_CSE_TISSAMAHARAMA_TRAIT_NAME",					"{LOC_CIVILIZATION_CSE_TISSAMAHARAMA_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_TISSAMAHARAMA_TRAIT_DESCRIPTION",			"Land units gain +5 [ICON_STRENGTH] Combat Strength."	),
+	("en_US",	"LOC_CSE_TISSAMAHARAMA_TRAIT_DESCRIPTION",			"Land units (Recon, Melee, Ranged, and Anti-Cavalry) gain +5 [ICON_STRENGTH] Combat Strength."	),
 
 	("en_US",	"LOC_CSE_TISSAMAHARAMA_STRENGTH",					"+{1_Amount} Combat Bonus (Tissamaharama)"	),
 	
+	("en_US",	"LOC_CSE_TISSAMAHARAMA_STRENGTH_NAME",				"Tissamaharama Bonus"	),
+	("en_US",	"LOC_CSE_TISSAMAHARAMA_STRENGTH_DESC",				"+{1_Amount} Combat Bonus (Tissamaharama)"	),
+
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_TISSAMAHARAMA_NAME",		"{LOC_CIVILIZATION_CSE_TISSAMAHARAMA_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_TISSAMAHARAMA",						"{LOC_CIVILIZATION_CSE_TISSAMAHARAMA_NAME}"	),
 
@@ -1390,7 +1393,7 @@ VALUES
 	("en_US",	"LOC_CIVILIZATION_CSE_VIENNA_ADJECTIVE",		"Vienna"	),
 	("en_US",	"LOC_CIVILIZATION_CSE_VIENNA_DESCRIPTION",		"{LOC_CIVILIZATION_CSE_VIENNA_NAME} city-state"		),
 	("en_US",	"LOC_CSE_VIENNA_TRAIT_NAME",					"{LOC_CIVILIZATION_CSE_VIENNA_NAME} Suzerain Bonus"	),
-	("en_US",	"LOC_CSE_VIENNA_TRAIT_DESCRIPTION",				"Your cities with an established [ICON_GOVERNOR] Governor provide +1 [ICON_FAVOR] Diplomatic Favor per turn."	),
+	("en_US",	"LOC_CSE_VIENNA_TRAIT_DESCRIPTION",				"Your cities with an established [ICON_GOVERNOR] Governor can purchase buildings for 25% cheaper."	),
 
 	("en_US",	"LOC_LEADER_MINOR_CIV_CSE_VIENNA_NAME",			"{LOC_CIVILIZATION_CSE_VIENNA_NAME}"	),
 	("en_US",	"LOC_CITY_NAME_VIENNA",							"{LOC_CIVILIZATION_CSE_VIENNA_NAME}"	),

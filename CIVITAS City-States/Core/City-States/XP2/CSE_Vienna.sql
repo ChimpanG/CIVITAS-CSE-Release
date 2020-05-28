@@ -1,7 +1,7 @@
 /*
 	Vienna
-	~ Your cities with an established Governor provide +1 Diplomatic Favor per turn.
-
+	~ Your cities with an established Governor provide NOT (+1 Diplomatic Favor per turn.)
+		-- Provide 25% discount to building purchases
 	Authors: ChimpanG
 */
 

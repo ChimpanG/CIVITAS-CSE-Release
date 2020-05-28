@@ -35,6 +35,9 @@
         <LoadOrder>1</LoadOrder>
       </Properties>
       <File>Core/CSE_Localisation.sql</File>
+      <File>Core/Localisation/CSE_Localisation_FR.sql</File>
+      <File>Core/Localisation/CSE_Localisation_ru.sql</File>
+      <File>Core/Localisation/CSE_Localisation_PT_BR.sql</File>
     </UpdateText>
   </FrontEndActions>
   <InGameActions>
@@ -75,6 +78,9 @@
         <LoadOrder>40</LoadOrder>
       </Properties>
       <File>Core/CSE_Localisation.sql</File>
+      <File>Core/Localisation/CSE_Localisation_FR.sql</File>
+      <File>Core/Localisation/CSE_Localisation_ru.sql</File>
+      <File>Core/Localisation/CSE_Localisation_PT_BR.sql</File>
     </UpdateText>
     <UpdateIcons id="CSE_Icons">
       <Properties>
@@ -117,6 +123,22 @@
         <LuaReplace>Core/Utilities/UI Replacements/TradeOverview.lua</LuaReplace>
       </Properties>
     </ReplaceUIScript>
+    <ImportFiles id="CSE_Import_Gov">
+      <Properties>
+        <LoadOrder>51</LoadOrder>
+      </Properties>
+      <Criteria>XP1</Criteria>
+      <File>Core/Utilities/UI Replacements/XP1/CityStates_Expansion1.lua</File>
+      <File>Core/Utilities/UI Replacements/XP1/CityStates.xml</File>
+    </ImportFiles>
+    <ReplaceUIScript id="CSE_CityStates_UI_Gov">
+      <Properties>
+        <LoadOrder>51</LoadOrder>
+        <LuaContext>CityStates</LuaContext>
+        <Criteria>XP1</Criteria>
+        <LuaReplace>Core/Utilities/UI Replacements/XP1/CityStates_Expansion1.lua</LuaReplace>
+      </Properties>
+    </ReplaceUIScript>
     <UpdateDatabase id="CSE_Validation">
       <Properties>
         <LoadOrder>20</LoadOrder>
@@ -139,7 +161,6 @@
       <File>Core/City-States/Base/CSE_Etzanoa.sql</File>
       <File>Core/City-States/Base/CSE_Etzanoa.sql</File>
       <File>Core/City-States/Base/CSE_Garama.sql</File>
-      <File>Core/City-States/Base/CSE_Havana.sql</File>
       <File>Core/City-States/Base/CSE_Hazor.sql</File>
       <File>Core/City-States/Base/CSE_Iqaluit.sql</File>
       <File>Core/City-States/Base/CSE_Jolo.sql</File>
@@ -164,7 +185,6 @@
       <File>Core/City-States/Base/CSE_Singapore.sql</File>
       <File>Core/City-States/Base/CSE_SriKsetra.sql</File>
       <File>Core/City-States/Base/CSE_Taos.sql</File>
-      <File>Core/City-States/Base/CSE_Teyuna.sql</File>
       <File>Core/City-States/Base/CSE_Tissamaharama.sql</File>
       <File>Core/City-States/Base/CSE_Tuneriut.sql</File>
       <File>Core/City-States/Base/CSE_Urgench.sql</File>
@@ -184,6 +204,7 @@
       <File>Core/City-States/XP1/CSE_Dodona.sql</File>
       <File>Core/City-States/XP1/CSE_Hadad.sql</File>
       <File>Core/City-States/XP1/CSE_Halin.sql</File>
+      <File>Core/City-States/XP1/CSE_Havana.sql</File>
       <File>Core/City-States/XP1/CSE_Hormuz.sql</File>
       <File>Core/City-States/XP1/CSE_Izapa.sql</File>
       <File>Core/City-States/XP1/CSE_Johannesburg.sql</File>
@@ -193,6 +214,7 @@
       <File>Core/City-States/XP1/CSE_PortRoyal.sql</File>
       <File>Core/City-States/XP1/CSE_Ugarit.sql</File>
       <File>Core/City-States/XP1/CSE_Mehrgarh.sql</File>
+      <File>Core/CSE_Wonders_XP1.sql</File>
     </UpdateDatabase>
     <UpdateDatabase id="CSE_CS_XP2">
       <Properties>
@@ -208,6 +230,8 @@
       <File>Core/City-States/XP2/CSE_Tangier.sql</File>
       <File>Core/City-States/XP2/CSE_Vaduz.sql</File>
       <File>Core/City-States/XP2/CSE_Vienna.sql</File>
+      <File>Core/City-States/XP2/CSE_Teyuna.sql</File>
+      <File>Core/CSE_Wonders_XP2.sql</File>
     </UpdateDatabase>
     <UpdateColors id="CSE_Colors">
       <Properties>
@@ -228,6 +252,9 @@
       </Properties>
       <Criteria>XP1</Criteria>
       <File>Core/CSE_Localisation_XP1.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP1_FR.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP1_ru.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP1_PT_BR.sql</File>
     </UpdateText>
     <UpdateDatabase id="CSE_Types_XP1">
       <Properties>
@@ -260,6 +287,9 @@
         <LoadOrder>42</LoadOrder>
       </Properties>
       <File>Core/CSE_Localisation_XP2.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP2_FR.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP2_ru.sql</File>
+      <File>Core/Localisation/CSE_Localisation_XP2_PT_BR.sql</File>
     </UpdateText>
     <UpdateDatabase id="CSE_CityStates_XP2">
       <Properties>
@@ -309,7 +339,6 @@
     <File>Core/City-States/Base/CSE_Djibouti.sql</File>
     <File>Core/City-States/Base/CSE_Etzanoa.sql</File>
     <File>Core/City-States/Base/CSE_Garama.sql</File>
-    <File>Core/City-States/Base/CSE_Havana.sql</File>
     <File>Core/City-States/Base/CSE_Hazor.sql</File>
     <File>Core/City-States/Base/CSE_Iqaluit.sql</File>
     <File>Core/City-States/Base/CSE_Jolo.sql</File>
@@ -336,7 +365,7 @@
     <File>Core/City-States/Base/CSE_Singapore.sql</File>
     <File>Core/City-States/Base/CSE_SriKsetra.sql</File>
     <File>Core/City-States/Base/CSE_Taos.sql</File>
-    <File>Core/City-States/Base/CSE_Teyuna.sql</File>
+    <File>Core/City-States/XP2/CSE_Teyuna.sql</File>
     <File>Core/City-States/Base/CSE_Tissamaharama.sql</File>
     <File>Core/City-States/Base/CSE_Tuneriut.sql</File>
     <File>Core/City-States/Base/CSE_Urgench.sql</File>
@@ -349,6 +378,7 @@
     <File>Core/City-States/XP1/CSE_Dodona.sql</File>
     <File>Core/City-States/XP1/CSE_Hadad.sql</File>
     <File>Core/City-States/XP1/CSE_Halin.sql</File>
+    <File>Core/City-States/XP1/CSE_Havana.sql</File>
     <File>Core/City-States/XP1/CSE_Hormuz.sql</File>
     <File>Core/City-States/XP1/CSE_Izapa.sql</File>
     <File>Core/City-States/XP1/CSE_Johannesburg.sql</File>
@@ -393,6 +423,8 @@
     <File>Core/Utilities/UI Replacements/CityStates.xml</File>
     <File>Core/Utilities/UI Replacements/CivilopediaPage_CityState.lua</File>
     <File>Core/Utilities/UI Replacements/TradeOverview.lua</File>
+    <File>Core/CSE_Wonders_XP1.sql</File>
+    <File>Core/CSE_Wonders_XP2.sql</File>
     <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_BaseColor</File>
     <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Burn_G</File>
     <File>Platforms/MacOS/BLPs/SHARED_DATA/TEXTURE_Decals_Parts_Ancient_01_B</File>
@@ -479,5 +511,16 @@
     <File>Platforms/Windows/BLPs/TileBase.blp</File>
     <File>Platforms/Windows/BLPs/UI/Icons.blp</File>
     <File>Platforms/Windows/BLPs/UI/StrategicView.blp</File>
+    <File>Core/Utilities/UI Replacements/XP1/CityStates_Expansion1.lua</File>
+    <File>Core/Utilities/UI Replacements/XP1/CityStates.xml</File>
+    <File>Core/Localisation/CSE_Localisation_XP1_FR.sql</File>
+    <File>Core/Localisation/CSE_Localisation_XP1_ru.sql</File>
+    <File>Core/Localisation/CSE_Localisation_FR.sql</File>
+    <File>Core/Localisation/CSE_Localisation_ru.sql</File>
+    <File>Core/Localisation/CSE_Localisation_PT_BR.sql</File>
+    <File>Core/Localisation/CSE_Localisation_XP2_FR.sql</File>
+    <File>Core/Localisation/CSE_Localisation_XP2_ru.sql</File>
+    <File>Core/Localisation/CSE_Localisation_XP2_PT_BR.sql</File>
+    <File>Core/Localisation/CSE_Localisation_XP1_PT_BR.sql</File>
   </Files>
 </Mod>

@@ -1,6 +1,6 @@
 /*
 	Lima
-	~ Your cities may build one more district than the population would allow if it has a Campus. Receive +50% Production toward Campus districts.
+	~ Your cities may build one more district than the population would allow if it has a Campus. Receive +20% Production toward Campus districts.
 
 	Authors: ChimpanG
 */
@@ -35,7 +35,7 @@ VALUES	('CSE_LIMA_SUZERAIN_EXTRA_DISTRICT',	'ModifierId',	'CSE_LIMA_EXTRA_DISTRI
 		('CSE_LIMA_SUZERAIN_CAMPUS_PRODUCTION',	'ModifierId',	'CSE_LIMA_CAMPUS_PRODUCTION'	),
 		('CSE_LIMA_EXTRA_DISTRICT',				'Amount',		1								),
 		('CSE_LIMA_CAMPUS_PRODUCTION',			'DistrictType',	'DISTRICT_CAMPUS'				),
-		('CSE_LIMA_CAMPUS_PRODUCTION',			'Amount',		50								);
+		('CSE_LIMA_CAMPUS_PRODUCTION',			'Amount',		20								);
 
 -----------------------------------------------
 -- RequirementSets

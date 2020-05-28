@@ -1,8 +1,8 @@
 /*
 	Teyuna
-	~ Forest tiles yield +1 Production if adjacent to at least two other Forest tiles. Lumber Mills yield +2 Gold when adjacent to a river.
+	~ Forest tiles yield +1 Production if adjacent to another Forest. Lumber Mills yield +2 Gold when adjacent to a river.
 
-	Authors: thecrazyscostman
+	Authors: thecrazyscostman, SeelingCat
 */
 
 -----------------------------------------------
@@ -45,7 +45,7 @@ VALUES	('CSE_PHASIS_SUZERAIN_FOREST_PRODUCTION',	'ModifierId',	'CSE_PHASIS_FORES
 INSERT INTO RequirementSets
         (RequirementSetId,						RequirementSetType			)
 VALUES	('REQSET_CSE_PHASIS_IS_ADJ_FOREST',		'REQUIREMENTSET_TEST_ALL'	),
-		('REQSET_CSE_PHASIS_IS_ADJ_2_FOREST',	'REQUIREMENTSET_TEST_ALL'	),
+
 		('REQSET_CSE_PHASIS_HAS_LUMBER_MILL',	'REQUIREMENTSET_TEST_ALL'	);
 
 -----------------------------------------------
@@ -55,7 +55,8 @@ VALUES	('REQSET_CSE_PHASIS_IS_ADJ_FOREST',		'REQUIREMENTSET_TEST_ALL'	),
 INSERT INTO RequirementSetRequirements
         (RequirementSetId,						RequirementId						)
 VALUES	('REQSET_CSE_PHASIS_IS_ADJ_FOREST',		'REQ_CSE_PHASIS_IS_ADJ_FOREST'		),
-		('REQSET_CSE_PHASIS_IS_ADJ_2_FOREST',	'REQ_CSE_PHASIS_IS_ADJ_2_FOREST'	),
+		('REQSET_CSE_PHASIS_IS_ADJ_FOREST',		'PLOT_IS_FOREST_REQUIREMENT'		),
+
 		('REQSET_CSE_PHASIS_HAS_LUMBER_MILL',	'REQ_CSE_PHASIS_HAS_LUMBER_MILL'	),
 		('REQSET_CSE_PHASIS_HAS_LUMBER_MILL',	'REQUIRES_PLOT_ADJACENT_TO_RIVER'	);
 
@@ -66,7 +67,7 @@ VALUES	('REQSET_CSE_PHASIS_IS_ADJ_FOREST',		'REQ_CSE_PHASIS_IS_ADJ_FOREST'		),
 INSERT INTO Requirements
 		(RequirementId,						RequirementType										)
 VALUES	('REQ_CSE_PHASIS_IS_ADJ_FOREST',	'REQUIREMENT_PLOT_ADJACENT_FEATURE_TYPE_MATCHES'	),
-		('REQ_CSE_PHASIS_IS_ADJ_2_FOREST',	'REQUIREMENT_COLLECTION_COUNT_ATLEAST'				),
+
 		('REQ_CSE_PHASIS_HAS_LUMBER_MILL',	'REQUIREMENT_PLOT_IMPROVEMENT_TYPE_MATCHES'			);
 
 -----------------------------------------------
@@ -76,7 +77,5 @@ VALUES	('REQ_CSE_PHASIS_IS_ADJ_FOREST',	'REQUIREMENT_PLOT_ADJACENT_FEATURE_TYPE_
 INSERT INTO RequirementArguments
 		(RequirementId,						Name,				Value								)
 VALUES	('REQ_CSE_PHASIS_IS_ADJ_FOREST',	'FeatureType',		'FEATURE_FOREST'					),
-		('REQ_CSE_PHASIS_IS_ADJ_2_FOREST',	'CollectionType',	'COLLECTION_PLAYER_PLOT_YIELDS'		),
-		('REQ_CSE_PHASIS_IS_ADJ_2_FOREST',	'RequirementSetId',	'REQSET_CSE_PHASIS_IS_ADJ_FOREST'	),
-		('REQ_CSE_PHASIS_IS_ADJ_2_FOREST',	'Count',			2									),
+
 		('REQ_CSE_PHASIS_HAS_LUMBER_MILL',	'ImprovementType',	'IMPROVEMENT_LUMBER_MILL'			);

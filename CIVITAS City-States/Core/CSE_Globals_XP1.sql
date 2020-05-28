@@ -78,3 +78,11 @@ WHERE	MomentTYpe = 'MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD';
 UPDATE	Moments
 SET		EraScore = (SELECT Value FROM CSE_UserSettings WHERE Setting = 'MOMENT_OUSTED_SUZERAIN_DURING_WAR')
 WHERE	MomentTYpe = 'MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR';
+
+-----------------------------------------------
+-- AYNOOK/AYNUK FIX
+-----------------------------------------------
+
+UPDATE CityNames
+SET CityName = "LOC_CITY_NAME_AYNUK"
+WHERE CityName = "LOC_CITY_NAME_AYNOOK";
